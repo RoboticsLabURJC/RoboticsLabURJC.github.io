@@ -1,28 +1,30 @@
 # main links
 main:
   - title: People
-#    url: /community/index/
-    url: /people
+    url: /people/members
   - title: Publications
     url: /publications/
   - title: "Projects"
     url: /projects
-# url: /projects/index/
 
 # left side bar
 docs:
   - title: People
-    url: /people
+    url: /people/members
     children:
       - title: "Members"
-        url: /people/members/
+        url: /people/members
       - title: "Students"
-        url: /people/students/
+        url: /people/students
 
   - title: "Publications"
-    url: /publications/
+    url: /publications
  
   - title: "Projects"
     url: /projects
- 
+    children:
+      - title: "Public funding"
+        url: /projects#Public-funding-projects
+      - title: "Industry"
+        url: /projects#Industry-projects
  

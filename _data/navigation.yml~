@@ -1,0 +1,54 @@
+# main links
+main:
+  - title: People
+#    url: /community/index/
+    url: /people
+  - title: Publications
+    url: /publications/
+  - title: "Projects"
+    url: /projects
+# url: /projects/index/
+  - title: About
+    url: /about/
+
+# left side bar
+docs:
+  - title: People
+    url: /people
+    children:
+      - title: "Contributors"
+        url: /people/contributors/
+      - title: "Students"
+        url: /people/students/
+      - title: "Robotics Club"
+        url: /people/robotics_club/
+
+  - title: "Publications"
+    url: /publications/
+    children:
+      - title: "Google Summer of Code"
+        url: /publications/gsoc/
+      - title: "Robotics courses"
+        url: /publications/robotics_courses/
+      - title: "Tech Talks"
+        url: /publications/talks/
+      - title: "Competitions"
+        url: /publications/competitions/
+
+  - title: "Projects"
+    url: /projects
+    children:
+      - title: "Robotics Education & Games"
+        url: /projects/robotics_education/
+      - title: "Deep Learning"
+        url: /projects/deep_learning/
+      - title: "FPGAs in robotics"
+        url: /projects/fpga_robotics/fpga_robotics/
+      - title: "Robot Programming Tools"
+        url: /projects/robots_programming_tools/
+      - title: "Visual SLAM"
+        url: /projects/visual_slam/visual_slam
+      - title: "Drones"
+        url: /projects/drones/drones/
+
+ 
