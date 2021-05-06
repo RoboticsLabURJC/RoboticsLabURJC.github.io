@@ -1,0 +1,28 @@
+# main links
+main:
+  - title: People
+#    url: /community/index/
+    url: /people
+  - title: Publications
+    url: /publications/
+  - title: "Projects"
+    url: /projects
+# url: /projects/index/
+
+# left side bar
+docs:
+  - title: People
+    url: /people
+    children:
+      - title: "Members"
+        url: /people/members/
+      - title: "Students"
+        url: /people/students/
+
+  - title: "Publications"
+    url: /publications/
+ 
+  - title: "Projects"
+    url: /projects
+ 
+ 

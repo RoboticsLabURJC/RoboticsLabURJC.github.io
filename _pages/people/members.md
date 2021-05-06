@@ -1,0 +1,101 @@
+---
+title: RoboticsLabURJC members
+layout: collection
+permalink: /people/members/
+
+classes: wide
+
+sidebar:
+  nav: "docs"
+
+
+
+projects:
+  - image_path: /assets/images/community/contributors/jmplaza.jpg
+    alt: "JoseMaría Cañas"
+    title: <a href='https://gsyc.urjc.es/jmplaza/' target='_blank'>JoseMaría Cañas</a>
+    excerpt: "Cofounder"
+
+  - image_path: /assets/images/community/contributors/jesus-fernandez.jpg
+    alt: "Jesús Fernández conde"
+    title: <a href='https://github.com/cawadall' target='_blank'>Jesús Fernández Conde</a>
+    excerpt: "Reconfigurable Computing Robotics"
+
+  - image_path: /assets/images/community/contributors/david_roldan.png
+    alt: "David Roldán"
+    title: <a href='https://github.com/davidrol6' target='_blank'>David Roldán</a>
+    excerpt: "RoboticsAcademy, Unibotics"
+
+  - image_path: /assets/images/community/contributors/julio-vega.jpg
+    alt: "Julio Vega"
+    title: <a href='https://gestion2.urjc.es/pdi/ver/julio.vega' target='_blank'>Julio Vega</a>
+    excerpt: ""
+
+  - image_path: /assets/images/community/contributors/Roberto_Calvo_Palomino.jpg
+    alt: "Roberto Calvo"
+    title: <a href='https://github.com/rperezgonz' target='_blank'>Roberto Calvo</a>
+    excerpt: "Machine Learning in Robotics"
+
+  - image_path: /assets/images/community/contributors/felipe-machado.jpg
+    alt: "Felipe Machado"
+    title: <a href='https://github.com/rperezgonz' target='_blank'>Felipe Machado</a>
+    excerpt: "Reconfigurable Computing in Robotics"
+
+  - image_path: /assets/images/community/contributors/spaniego.png
+    alt: "Sergio Paniego"
+    title: <a href='https://github.com/sergiopaniego' target='_blank'>Sergio Paniego</a>
+    excerpt: "Machine Learning in Robotics"
+
+  - image_path: /assets/images/community/contributors/pedro-cuenca.jpg
+    alt: "Pedro M. Cuenca"
+    title: <a href='https://github.com/almartinflorido' target='_blank'>Pedro M. Cuenca</a>
+    excerpt: "Profesor asociado"
+
+  - image_path: /assets/images/community/contributors/frivas.jpg
+    alt: "Francisco Rivas"
+    title: <a href='https://github.com/chanfr' target='_blank'>Francisco Rivas</a>
+    excerpt: "Profesor Asociado"
+
+  - image_path: /assets/images/community/contributors/alberto-gsoc.jpg
+    alt: "Alberto Martín"
+    title: <a href='https://github.com/almartinflorido' target='_blank'>Alberto Martín</a>
+    excerpt: "Profesor asociado"
+
+
+  - image_path: /assets/images/community/contributors/david_valladares.png
+    alt: "David Valladares"
+    title: <a href='https://github.com/dvalladaresv' target='_blank'>David Valladares</a>
+    excerpt: "Research Assistant"
+
+#  - image_path: /assets/images/community/contributors/pablo-moreno.jpg
+#    alt: "Pablo Moreno"
+#    title: <a href='https://github.com/dvalladaresv' target='_blank'>Pablo Moreno</a>
+#    excerpt: "Research Assistant"
+
+---
+
+
+{% include feature_row_advanced %}
+
+## Previous and awesome Members
+
+- [Diego Martín Martín](): Drones, Industrial Robotics
+- [Francisco Martín Rico](https://github.com/almartinflorido)
+- [Carlos Agüero](https://github.com/jordonezcerezo) 
+- [Pablo Barrera](https://github.com/crodriguezgarci)
+<!--  - [Juan Gonzalez](https://github.com/Obijuan): FPGA-robotics. -->
+- [Vicente Matellán](): Cofounder (now at Universidad de León)
+
+## Previous Research assistants
+
+- Pablo Moreno
+- Pedro Arias
+- Francisco Pérez
+- Nacho Arranz
+- Aitor Martínez
+- Carlos Rodriguez
+- Eduardo Perdices
+- David Lobato
+- Gonzalo Abella
+- [Alejandro Hernández](https://github.com/ahcorde) (Open Robotics Org)
+- [Borja Menéndez](https://github.com/bmenendez)
