@@ -12,22 +12,23 @@ classes: wide
 
 
 ## Current PhD students
+  - [Francisco Rivas](https://github.com/RoboticsLabURJC/2017-phd-francisco-rivas), DeepLearning 
   - Pedro Cuenca, DeepLearning in image enhancement
   - [Sergio Paniego](https://github.com/RoboticsLabURJC/2019-phd-sergio-paniego), Machine Learning in robotics
   - [Rubén Lucas](https://github.com/RoboticsLabURJC/2020-phd-ruben-lucas), Machine Learning in robotics
 <!---  - [Luis Caiza](https://github.com/RoboticsLabURJC/2018-phd-luis-caiza), vision in drones -->
   - [Pedro Fernández](https://github.com/RoboticsLabURJC/2018-phd-pedro-fernandez), DeepLearning 
 <!--  - [Alberto Martín](https://roboticslaburjc.github.io/2019-phd-alberto-martin), Reinforcement Learning -->
-<!--  - [Francisco Rivas](https://github.com/RoboticsLabURJC/2017-phd-francisco-rivas), DeepLearning -->
 
 
 ## Current Master students
-  - José Miguel Zamora, Machine Learning in Robotics
+<!---  - José Miguel Zamora, Machine Learning in Robotics -->
   - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
+  - [Pedro Arias](), real drones, simulated drones and DeepLearning perception
   - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones
   - Vladislav Kravchenko, RoboticsAcademy
   - [David Valladares](https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy
-  - Álvaro Paniagua, robotics education with Kibotics, data design
+<!---  - Álvaro Paniagua, robotics education with Kibotics, data design -->
 <!---  - Mikel Díez, visual perception on an autonomous boat  -->
 <!---  - [Francisco J. Palacios](https://roboticslaburjc.github.io/2018-tfm-Francisco-Palacios), SDSLAMmobile: visualSLAM in Android for Augmented Reality applications. -->
 
@@ -37,10 +38,9 @@ classes: wide
 ## Current Grad students
   - [Felicidad Abad](https://roboticslaburjc.github.io/2021-tfg-felicidad-abad/)
   - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero), ROS2, BehaviorTrees, TurtleBot2
+  - [Daniel Hervás](https://roboticslaburjc.github.io/2021-tfg-daniel-hervas), Unibotics, robot programming games
   - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/), Unibotics and Elasticsearch
   - Álvaro Martín, Predicting images, learning time sequences
-  - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana), robotics education with Kibotics
-  - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in JdeRobot Academy
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
 <!---  - [Eva García](https://github.com/RoboticsLabURJC/2017-tfg-eva_garcia), mbot support in Kibotics -->
@@ -54,6 +54,10 @@ classes: wide
 ***
 
 # Previous students
+
+## 2021
+  - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana), robotics education with Kibotics
+  - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in JdeRobot's RoboticsAcademy
 
 ## 2020
   - [Daniel Pulido](https://github.com/RoboticsLabURJC/2020-tfg-daniel-pulido) (grad), robotics education with Kibotics
