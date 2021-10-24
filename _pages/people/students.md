@@ -25,7 +25,7 @@ classes: wide
   - José Miguel Zamora, Machine Learning in Robotics
   - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
   - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones
-  - Vladislav Kavchenko, RoboticsAcademy
+  - Vladislav Kravchenko, RoboticsAcademy
   - [David Valladares](https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy
   - Álvaro Paniagua, robotics education with Kibotics, data design
 <!---  - Mikel Díez, visual perception on an autonomous boat  -->
@@ -35,6 +35,8 @@ classes: wide
 
 
 ## Current Grad students
+  - [Felicidad Abad](https://roboticslaburjc.github.io/2021-tfg-felicidad-abad/)
+  - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero), ROS2, BehaviorTrees, TurtleBot2
   - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/), Unibotics and Elasticsearch
   - Álvaro Martín, Predicting images, learning time sequences
   - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana), robotics education with Kibotics
