@@ -26,7 +26,6 @@ classes: wide
   - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
   - [Pedro Arias](), real drones, simulated drones and DeepLearning perception
   - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones
-  - Vladislav Kravchenko, RoboticsAcademy
   - [David Valladares](https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy
 <!---  - Álvaro Paniagua, robotics education with Kibotics, data design -->
 <!---  - Mikel Díez, visual perception on an autonomous boat  -->
@@ -55,9 +54,12 @@ classes: wide
 
 # Previous students
 
+## 2022
+  - [Vladislav Kravchenko](https://github.com/vladkrav/AmigoBot) (master, co-advised with Manuel Ocaña -UAH-) [pdf](https://gsyc.urjc.es/jmplaza/students/tfm-academy-vladislav_kravchenko-2022.pdf), RoboticsAcademy laser mapping and laser localization exercises
+
 ## 2021
-  - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana), robotics education with Kibotics
-  - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in JdeRobot's RoboticsAcademy
+  - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana) (grad), robotics education with Kibotics
+  - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas) (grad), computer vision exercises in JdeRobot's RoboticsAcademy
 
 ## 2020
   - [Daniel Pulido](https://github.com/RoboticsLabURJC/2020-tfg-daniel-pulido) (grad), robotics education with Kibotics
