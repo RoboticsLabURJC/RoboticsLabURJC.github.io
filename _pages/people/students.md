@@ -24,7 +24,6 @@ classes: wide
 ## Current Master students
 <!---  - José Miguel Zamora, Machine Learning in Robotics -->
   - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
-  - [Pedro Arias](), real drones, simulated drones and DeepLearning perception
   - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones
   - [David Valladares](https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy
 <!---  - Álvaro Paniagua, robotics education with Kibotics, data design -->
@@ -55,6 +54,7 @@ classes: wide
 # Previous students
 
 ## 2022
+  - [Pedro Arias](https://github.com/RoboticsLabURJC/2021-tfm-pedro-arias), DroneWrapper, follow person application with real drones, simulated drones and DeepLearning perception
   - [Vladislav Kravchenko](https://github.com/vladkrav/AmigoBot) (master, co-advised with Manuel Ocaña -UAH-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-academy-vladislav_kravchenko-2022.pdf), RoboticsAcademy laser mapping and laser localization exercises
 
 ## 2021
