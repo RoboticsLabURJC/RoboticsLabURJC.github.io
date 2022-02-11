@@ -54,7 +54,7 @@ classes: wide
 # Previous students
 
 ## 2022
-  - [Pedro Arias](https://github.com/RoboticsLabURJC/2021-tfm-pedro-arias), DroneWrapper, follow person application with real drones, simulated drones and DeepLearning perception
+  - [Pedro Arias](https://github.com/RoboticsLabURJC/2021-tfm-pedro-arias) (master, co-advised with David Martín -UC3M-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-drones-followperson-pedro_arias-2022.pdf), DroneWrapper, follow person application with real drones, simulated drones and DeepLearning perception
   - [Vladislav Kravchenko](https://github.com/vladkrav/AmigoBot) (master, co-advised with Manuel Ocaña -UAH-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-academy-vladislav_kravchenko-2022.pdf), RoboticsAcademy laser mapping and laser localization exercises
 
 ## 2021
