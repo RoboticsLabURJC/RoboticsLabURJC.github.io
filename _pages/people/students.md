@@ -38,7 +38,7 @@ classes: wide
   - [Felicidad Abad](https://roboticslaburjc.github.io/2021-tfg-felicidad-abad/), Unibotics, automatic testing, vision based exercises
   - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero), Unibotics, ROS2, BehaviorTrees, TurtleBot2
   - [Daniel Hervás](https://roboticslaburjc.github.io/2021-tfg-daniel-hervas), Unibotics, robot programming games
-  - Álvaro Martín (co-advised with Inmaculada Mora -URJC-), Predicting images, learning time sequences
+  - [Álvaro Martín](https://roboticslaburjc.github.io/2020-tfg-alvaro-martin) (co-advised with Inmaculada Mora -URJC-), Predicting images, learning time sequences
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
 <!---  - [Eva García](https://github.com/RoboticsLabURJC/2017-tfg-eva_garcia), mbot support in Kibotics -->
@@ -60,7 +60,7 @@ classes: wide
 # Previous students
 
 ## 2022
-  - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/) (grad), Unibotics analytics, based on Elasticsearch and DASH
+  - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/) (grad) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-Robotics_Academy-claudia_alvarez-2022.pdf), Unibotics analytics, based on Elasticsearch and DASH
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2021-tfm-pedro-arias) (master, co-advised with David Martín -UC3M-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-drones-followperson-pedro_arias-2022.pdf), DroneWrapper, follow person application with real drones, simulated drones and DeepLearning perception
   - [Vladislav Kravchenko](https://github.com/vladkrav/AmigoBot) (master, co-advised with Manuel Ocaña -UAH-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-academy-vladislav_kravchenko-2022.pdf), RoboticsAcademy laser mapping and laser localization exercises
 
