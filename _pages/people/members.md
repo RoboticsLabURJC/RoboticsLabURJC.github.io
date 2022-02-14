@@ -51,20 +51,24 @@ projects:
     title: <a href='https://github.com/almartinflorido' target='_blank'>Pedro M. Cuenca</a>
     excerpt: "Profesor asociado"
 
-  - image_path: /assets/images/community/contributors/frivas.jpg
-    alt: "Francisco Rivas"
-    title: <a href='https://github.com/chanfr' target='_blank'>Francisco Rivas</a>
-    excerpt: "Profesor Asociado"
+#  - image_path: /assets/images/community/contributors/frivas.jpg
+#    alt: "Francisco Rivas"
+#    title: <a href='https://github.com/chanfr' target='_blank'>Francisco Rivas</a>
+#    excerpt: "Profesor Asociado"
 
-  - image_path: /assets/images/community/contributors/alberto-gsoc.jpg
-    alt: "Alberto Martín"
-    title: <a href='https://github.com/almartinflorido' target='_blank'>Alberto Martín</a>
-    excerpt: "Profesor asociado"
-
+#  - image_path: /assets/images/community/contributors/alberto-gsoc.jpg
+#    alt: "Alberto Martín"
+#    title: <a href='https://github.com/almartinflorido' target='_blank'>Alberto Martín</a>
+#    excerpt: "Profesor asociado"
 
   - image_path: /assets/images/community/contributors/david_valladares.png
     alt: "David Valladares"
     title: <a href='https://github.com/dvalladaresv' target='_blank'>David Valladares</a>
+    excerpt: "Research Assistant"
+
+  - image_path: /assets/images/community/contributors/marta-quintana.png
+    alt: "Marta Quintana"
+    title: <a href='https://github.com/martaquintana' target='_blank'>Marta Quintana</a>
     excerpt: "Research Assistant"
 
 #  - image_path: /assets/images/community/contributors/pablo-moreno.jpg
