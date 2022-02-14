@@ -83,12 +83,12 @@ projects:
 
 ## Previous and awesome Members
 
-- [Diego Martín Martín](): Drones, Industrial Robotics
-- [Francisco Martín Rico](https://github.com/almartinflorido)
-- [Carlos Agüero](https://github.com/jordonezcerezo) 
-- [Pablo Barrera](https://github.com/crodriguezgarci)
+- [Diego Martín Martín](https://gestion2.urjc.es/pdi/ver/diego.martin.martin): Drones, Industrial Robotics
+- [Francisco Martín Rico](https://github.com/fmrico)
+- [Carlos Agüero](https://github.com/caguero) (Open Robotics Org)
+- [Pablo Barrera](https://github.com/pbarrera) (Google)
 <!--  - [Juan Gonzalez](https://github.com/Obijuan): FPGA-robotics. -->
-- [Vicente Matellán](): Cofounder (now at Universidad de León)
+- [Vicente Matellán](https://robotica.unileon.es/vmo): Cofounder (now at Universidad de León)
 
 ## Previous Research assistants
 
