@@ -17,15 +17,15 @@ classes: wide
   - [Sergio Paniego](https://github.com/RoboticsLabURJC/2019-phd-sergio-paniego), Machine Learning in robotics
   - [Rubén Lucas](https://github.com/RoboticsLabURJC/2020-phd-ruben-lucas), Machine Learning in robotics
 <!---  - [Luis Caiza](https://github.com/RoboticsLabURJC/2018-phd-luis-caiza), vision in drones -->
-  - [Pedro Fernández](https://github.com/RoboticsLabURJC/2018-phd-pedro-fernandez), DeepLearning 
+  - [Pedro Fernández](https://github.com/RoboticsLabURJC/2018-phd-pedro-fernandez), Reinforcement Learning in Robotics
 <!--  - [Alberto Martín](https://roboticslaburjc.github.io/2019-phd-alberto-martin), Reinforcement Learning -->
 
 
 ## Current Master students
 <!---  - José Miguel Zamora, Machine Learning in Robotics -->
   - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
-  - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones
-  - [David Valladares](https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy
+  - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), RoboticsAcademy: Visual 3D odometry exercise
+  - [David Valladares](https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy: Vision based exercises
 <!---  - Álvaro Paniagua, robotics education with Kibotics, data design -->
 <!---  - Mikel Díez, visual perception on an autonomous boat  -->
 <!---  - [Francisco J. Palacios](https://roboticslaburjc.github.io/2018-tfm-Francisco-Palacios), SDSLAMmobile: visualSLAM in Android for Augmented Reality applications. -->
@@ -41,7 +41,7 @@ classes: wide
   - [Álvaro Martín](https://roboticslaburjc.github.io/2020-tfg-alvaro-martin) (co-advised with Inmaculada Mora -URJC-), Predicting images, learning time sequences
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
-<!---  - [Eva García](https://github.com/RoboticsLabURJC/2017-tfg-eva_garcia), mbot support in Kibotics -->
+  - [Eva García](https://github.com/RoboticsLabURJC/2017-tfg-eva_garcia), mBot robot programming in Python, PyBoKids
   - [Richard Nicklas](https://roboticslaburjc.github.io/2017-tfg-richard-nicklas), vision optimization with FPGAs
 
 
