@@ -42,7 +42,7 @@ classes: wide
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
   - [Eva García](https://github.com/RoboticsLabURJC/2017-tfg-eva_garcia), mBot robot programming in Python, PyBoKids
-  - [Richard Nicklas](https://roboticslaburjc.github.io/2017-tfg-richard-nicklas), vision optimization with FPGAs
+  - [Richard Nicklas](https://roboticslaburjc.github.io/2017-tfg-richard-nicklas) (co-advised with Felipe Machado -URJC-), computer vision algorithms on FPGAs
 
 
 
