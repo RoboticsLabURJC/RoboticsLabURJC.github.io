@@ -1,17 +1,49 @@
 ---
 permalink: /people/students
-title: "Students"
+title: "STUDENTS"
+
+youtubeId1: xg40zN9tJqw
 
 sidebar:
   nav: "docs"
+  
+toc: true
+toc_label: "Students"
+toc_icon: "cog"
 
-layout: archive
+projects:
 
-classes: wide
+
 ---
 
 
-## Current PhD students
+
+&nbsp;
+## Oferta de TFG y TFM para alumnos de URJC
+
+Los interesados podéis contactar con el mentor correspondiente para ampliar información, enviar vuestro CV y listado de notas.
+
+### 1.- Realidad virtual en web y distribuida con [Networked-Aframe](https://github.com/networked-aframe)
+
+En los últimos años la tecnología realidad virtual (VR) está aportando aplicaciones inmersivas útiles en entretenimiento (como videojuegos), en entrenamiento de profesionales (médicos, militares, pilotos) e incluso en educación. FaceBook también está apostando fuerte con escenarios virtuales en su metaverso. Además de emplearse con gafas de realidad virtual (Oculus Rift, HTC Vivo o Valve Index), también está madurando la tecnología para usarlo en navegadores web. En esa dirección [AFrame](https://aframe.io/) se está extendiendo como estandard de facto para combinar web con gafas de realidad virtual.
+
+En el grupo ya tenemos experiencia manejando AFrame con varios TFGs, por ejemplo programando un simulador robótico con ello (Álvaro, David, [Natalia](https://gsyc.urjc.es/jmplaza/students/tfg-kibotics-motor_fisicas-natalia_monforte-2020.pdf)). Ahora queremos explorar el uso distribuido de AFrame con varios usuarios simultáneos, cada uno desde su ordenador accediendo a misma escena *distribuida*, dentro de la cual incluso pueden interactuar. Algo parecido a la tecnología [Mozilla Hubs](https://hubs.mozilla.com/). Aprenderás tecnología puntera de VR y reforzarás tu conocimiento web.
+
+- **Orientado a** Alumnos de titulaciones de telecomunicación o informática URJC (GISAM, GITT, GIT, GST), preferibles conocimientos de tecnologías web de frontend (HTML, JavaScript, CSS)
+- **Mentor:** José María Cañas (josemaria.plaza AT urjc.es)
+
+<figure class="half">
+    <a href=""><iframe src="https://www.youtube.com/embed/4BezsGTTrXs"></iframe></a>
+    <a href=""><iframe src="https://www.youtube.com/embed/8mtK8DVkDZo"></iframe></a>
+</figure>
+
+{% include youtubePlayer.html id=page.youtubeId1 %}
+
+
+&nbsp;
+## Current Students
+
+### Current PhD students
 <!--  - [Francisco Rivas](https://github.com/RoboticsLabURJC/2017-phd-francisco-rivas), DeepLearning -->
   - Pedro Cuenca, DeepLearning in image enhancement
   - [Sergio Paniego](https://github.com/RoboticsLabURJC/2019-phd-sergio-paniego), Machine Learning in robotics
@@ -21,7 +53,7 @@ classes: wide
 <!--  - [Alberto Martín](https://roboticslaburjc.github.io/2019-phd-alberto-martin), Reinforcement Learning -->
 
 
-## Current Master students
+### Current Master students
 <!---  - José Miguel Zamora, Machine Learning in Robotics -->
   - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
   - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), RoboticsAcademy: Visual 3D odometry exercise
@@ -33,7 +65,7 @@ classes: wide
 
 
 
-## Current Grad students
+### Current Grad students
   - [Raúl Fernández](https://github.com/RoboticsLabURJC/2022-tfg-raul-fernandez) (co-advised with Daniel Palacios -URJC-), Unibotics
   - [Felicidad Abad](https://roboticslaburjc.github.io/2021-tfg-felicidad-abad/), Unibotics, automatic testing, vision based exercises
   - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero), Unibotics, ROS2, BehaviorTrees, TurtleBot2
@@ -46,29 +78,20 @@ classes: wide
 
 
 
+
 &nbsp;
-&nbsp;
+## Previous students
 
-***
-
-<!--- # Oferta de Trabajos Fin de Grado
--
--
-- 
--->
-
-# Previous students
-
-## 2022
+### 2022
   - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/) (grad) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-Robotics_Academy-claudia_alvarez-2022.pdf), Unibotics analytics, based on Elasticsearch and DASH
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2021-tfm-pedro-arias) (master, co-advised with David Martín -UC3M-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-drones-followperson-pedro_arias-2022.pdf), DroneWrapper, follow person application with real drones, simulated drones and DeepLearning perception
   - [Vladislav Kravchenko](https://github.com/vladkrav/AmigoBot) (master, co-advised with Manuel Ocaña -UAH-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-academy-vladislav_kravchenko-2022.pdf), RoboticsAcademy laser mapping and laser localization exercises
 
-## 2021
+### 2021
   - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana) (grad), robotics education with Kibotics
   - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas) (grad), computer vision exercises in JdeRobot's RoboticsAcademy
 
-## 2020
+### 2020
   - [Daniel Pulido](https://github.com/RoboticsLabURJC/2020-tfg-daniel-pulido) (grad), robotics education with Kibotics
   - [David Pascual](https://roboticslaburjc.github.io/2017-tfm-david-pascual/) (master), Convolutional Pose Machines
   - [Nuria Oyaga](https://roboticslaburjc.github.io/2017-tfm-nuria-oyaga/logbook/) (master), Predicting images, learning time sequences
@@ -88,7 +111,7 @@ classes: wide
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2019-tfg-pedro-arias) (grad), ROSpilot project with drones
   - [Carlos Awadallah](https://gsyc.urjc.es/jmplaza/students/tfm-academy-carlos_awadallah-2020.pdf) (master), Robotics Academy
   
-## 2019
+### 2019
   - [Rubén Álvarez](https://roboticslaburjc.github.io/2019-tfg-ruben-alvarez) (grad), WebSim robot simulator.
   - [Elías Barcia](https://roboticslaburjc.github.io/2017-tfm-elias-barcia) (master), visual SLAM, slam-testbed tool
   - [Alexandre Rodríguez](https://roboticslaburjc.github.io/2017-tfm-alexandre-rodriguez) (master), Visual multiobject tracker with DeepLearning
@@ -97,10 +120,7 @@ classes: wide
   - [Ignacio Malo](http://roboticslaburjc.github.io/2016-tfg-Ignacio-Malo) (grad), robotic arm exercise in RoboticsAcademy
 
 
-
-## 2018
-
-
+### 2018
   - [Vanessa Fernández](http://roboticslaburjc.github.io/2016-tfg-vanessa-fernandez), new exercises at RoboticsAcademy
 
 
