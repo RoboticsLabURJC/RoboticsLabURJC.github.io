@@ -39,6 +39,28 @@ En el grupo ya tenemos experiencia manejando AFrame con varios TFGs, por ejemplo
 
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
+### 2.- Programación de aplicaciones robóticas reactivas con la herramienta visual [VisualCircuit](https://jderobot.github.io/VisualCircuit/)
+
+La manera habitual de programar aplicaciones robóticas es escribir su código fuente en un lenguaje de alto nivel como C++ o Python. Por ejemplo como un bucle infinito que en cada iteración comprueba valores de los sensores, toma alguna decisión y envía comandos a los actuadores del robot. En el entorno ROS las aplicaciones son varios nodos ejecutando concurrentemente e intercambiando mensajes entre sí (*topics*). Una manera alternativa es diseñar la aplicación robótica como si fuera un circuito, con entradas, salidas y bloques internos conectados entre sí mediante "cables", como si fueran componentes electrónicos. Las entradas del circuito global se conectan a los sensores y las salidas a los actuadores del robot. Esta filosofía se usa mucho en Computación Reconfigurable (FPGAs). 
+
+Con la financiación de Googe (GSoC-2020) en la asociación JdeRobot crearon la herramienta gráfica [VisualCircuit](https://jderobot.github.io/VisualCircuit/) para facilitar la creación de aplicaciones robóticas siguiendo esta filosofía. Cada bloque es un proceso de Python, iterativo, y los cables entre bloques se implementan con memoria compartida. Varias aplicaciones se desarrollaron con ROS1 y con visión para validar su funcionamiento. Este trabajo fue seleccionado en [ROS World 2020](https://www.youtube.com/watch?v=FDi2-TTH9z0) como charla relámpago. En GSoC-2021 se construyó el servidor web [visualcircuit.org](https://visualcircuit.org/) para ofrecer esa misma funcionalidad desde el browser, sin necesidad de instalar nada. Este trabajo también fue seleccionado dentro de la [ROS World 2021](https://www.youtube.com/watch?v=FDi2-TTH9z0).
+
+Se ofrece un TFG sobre la creación usando VisualCircuit de varias aplicaciones robóticas reactivas con robots variados (un drone, un TurtleBot2, un coche autónomo). También se abordará la extensión de la herramienta para soportar robots con drivers en ROS2. Es recomendable manejar GitHub e inglés escrito con cierta soltura, interactuarás con el equipo internacional de desarrolladores de esta herramienta.
+
+- **Orientado a** Alumnos del Grado de Ingeniería en Robótica Software 
+- **Mentor:** José María Cañas (josemaria.plaza AT urjc.es)
+
+
+<p class="aligncenter">
+<img src="/assets/images/community/VisualCircuit.png"> 
+</p>
+
+<figure class="half">
+    <a href=""><iframe src="https://www.youtube.com/embed/WMRDqv3TYB0"></iframe></a>
+    <a href=""><iframe src="https://www.youtube.com/embed/https://youtu.be/k0KEFBCWEQc"></iframe></a>
+</figure>
+
+
 
 &nbsp;
 ## Current Students
