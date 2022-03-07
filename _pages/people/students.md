@@ -57,7 +57,7 @@ Se ofrece un TFG sobre la creación usando VisualCircuit de varias aplicaciones 
 
 <figure class="half">
     <a href=""><iframe src="https://www.youtube.com/embed/WMRDqv3TYB0"></iframe></a>
-    <a href=""><iframe src="https://www.youtube.com/embed/https://youtu.be/k0KEFBCWEQc"></iframe></a>
+    <a href=""><iframe src="https://www.youtube.com/embed/k0KEFBCWEQc"></iframe></a>
 </figure>
 
 
