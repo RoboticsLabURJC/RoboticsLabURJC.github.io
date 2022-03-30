@@ -67,9 +67,10 @@ Se ofrece un TFG sobre la creación usando VisualCircuit de varias aplicaciones 
 
 ### Current PhD students
 <!--  - [Francisco Rivas](https://github.com/RoboticsLabURJC/2017-phd-francisco-rivas), DeepLearning -->
+  - [Nuria Oyaga](https://roboticslaburjc.github.io/2022-phd-nuria-oyaga), Machine Learning in Robotics
   - Pedro Cuenca, DeepLearning in image enhancement
-  - [Sergio Paniego](https://github.com/RoboticsLabURJC/2019-phd-sergio-paniego), Machine Learning in robotics
-  - [Rubén Lucas](https://github.com/RoboticsLabURJC/2020-phd-ruben-lucas), Machine Learning in robotics
+  - [Sergio Paniego](https://github.com/RoboticsLabURJC/2019-phd-sergio-paniego), Machine Learning in Robotics
+  - [Rubén Lucas](https://github.com/RoboticsLabURJC/2020-phd-ruben-lucas), Machine Learning in Robotics
 <!---  - [Luis Caiza](https://github.com/RoboticsLabURJC/2018-phd-luis-caiza), vision in drones -->
   - [Pedro Fernández](https://github.com/RoboticsLabURJC/2018-phd-pedro-fernandez), Reinforcement Learning in Robotics
 <!--  - [Alberto Martín](https://roboticslaburjc.github.io/2019-phd-alberto-martin), Reinforcement Learning -->
@@ -88,6 +89,7 @@ Se ofrece un TFG sobre la creación usando VisualCircuit de varias aplicaciones 
 
 
 ### Current Grad students
+  - [David Tapiador](https://roboticslaburjc.github.io/2022-tfg-david-tapiador), VisualCircuit for robotics applications
   - [Raúl Fernández](https://github.com/RoboticsLabURJC/2022-tfg-raul-fernandez) (co-advised with Daniel Palacios -URJC-), Unibotics
   - [Felicidad Abad](https://roboticslaburjc.github.io/2021-tfg-felicidad-abad/), Unibotics, automatic testing, vision based exercises
   - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero), Unibotics, ROS2, BehaviorTrees, TurtleBot2
