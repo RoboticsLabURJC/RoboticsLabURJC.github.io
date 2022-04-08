@@ -61,6 +61,17 @@ Se ofrece un TFG sobre la creación usando VisualCircuit de varias aplicaciones 
 </figure>
 
 
+### 3.- Integración de ejercicios de programación pura en [Unibotics](https://unibotics.org/)
+
+En la actualidad, tanto en carreras técnicas como en algunas no consideradas técnicas, adquirir competencias de programación se está convirtiendo en algo obligatorio. Es por ello por lo que muchas instituciones trabajan para ofrecer a los estudiantes recursos para apoyarlos durante las asignaturas de introducción a la programación. Para facilitar este apoyo, es necesario facilitar las herramientas apropiadas para que la asignatura pueda transcurrir con éxito, facilitando estas plataformas apoyo tanto a los docentes como a los estudiantes.
+
+[Unibotics](https://unibotics.org/) es una plataforma Web que inicialmente fue concebida para la enseñanza de la programación de robots. En dicha plataforma y para cada ejercicio disponible, se ofrecen una serie de evaluadores (de estilo, de funcionalidad, etc...) que permiten a los estudiantes obtener una retroalimentación automática sobre el código que escriben. Además, en la propia plataforma los estudiantes disponen de un historial con sus calificaciones, pudiendo ser conscientes en todo momento de su evolución. 
+
+El objetivo de este TFG es implementar ejercicios de programación pura que no requieren de un simulador robótico, si no que directamente el usuario podrá escribir su código en la plataforma Web y obtener el resultado de la ejecución directamente a través de la plataforma. De esta manera, además de tener acceso a herramientas de autoevaluación, no sería tampoco necesario que tuvieran que instalar ningún tipo de herramienta.
+
+- **Orientado a** Alumnos de titulaciones de telecomunicación o informática URJC (GISAM, GITT, GIT, GST), preferibles conocimientos de tecnologías web de frontend (HTML, JavaScript, CSS)
+- **Mentor:** David Roldán Álvarez (david.roldan AT urjc.es)
+
 
 &nbsp;
 ## Current Students
@@ -134,7 +145,7 @@ Se ofrece un TFG sobre la creación usando VisualCircuit de varias aplicaciones 
   - [Eloy Navarro](https://github.com/RoboticsLabURJC/2018-tfg-eloy-navarro) (grad), drone stabilization with an FPGA ground station	 
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2019-tfg-pedro-arias) (grad), ROSpilot project with drones
   - [Carlos Awadallah](https://gsyc.urjc.es/jmplaza/students/tfm-academy-carlos_awadallah-2020.pdf) (master), Robotics Academy
-  
+
 ### 2019
   - [Rubén Álvarez](https://roboticslaburjc.github.io/2019-tfg-ruben-alvarez) (grad), WebSim robot simulator.
   - [Elías Barcia](https://roboticslaburjc.github.io/2017-tfm-elias-barcia) (master), visual SLAM, slam-testbed tool
