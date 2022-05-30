@@ -103,7 +103,6 @@ El objetivo de este TFG es implementar ejercicios de programación pura que no r
   - [David Tapiador](https://roboticslaburjc.github.io/2022-tfg-david-tapiador), VisualCircuit for robotics applications
   - [Raúl Fernández](https://github.com/RoboticsLabURJC/2022-tfg-raul-fernandez) (co-advised with Daniel Palacios -URJC-), Unibotics
   - [Felicidad Abad](https://roboticslaburjc.github.io/2021-tfg-felicidad-abad/), Unibotics, automatic testing, vision based exercises
-  - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero), Unibotics, ROS2, BehaviorTrees, TurtleBot2
   - [Daniel Hervás](https://roboticslaburjc.github.io/2021-tfg-daniel-hervas), Unibotics, robot programming games
   - [Álvaro Martín](https://roboticslaburjc.github.io/2020-tfg-alvaro-martin) (co-advised with Inmaculada Mora -URJC-), Predicting images, learning time sequences
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
@@ -112,12 +111,11 @@ El objetivo de este TFG es implementar ejercicios de programación pura que no r
   - [Richard Nicklas](https://roboticslaburjc.github.io/2017-tfg-richard-nicklas) (co-advised with Felipe Machado -URJC-), computer vision algorithms on FPGAs
 
 
-
-
 &nbsp;
 ## Previous students
 
 ### 2022
+  - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-academy-carlos_caminero-2022.pdf), RoboticsAcademy, ROS2, TurtleBot2
   - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/) (grad) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-Robotics_Academy-claudia_alvarez-2022.pdf), Unibotics analytics, based on Elasticsearch and DASH
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2021-tfm-pedro-arias) (master, co-advised with David Martín -UC3M-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-drones-followperson-pedro_arias-2022.pdf), DroneWrapper, follow person application with real drones, simulated drones and DeepLearning perception
   - [Vladislav Kravchenko](https://github.com/vladkrav/AmigoBot) (master, co-advised with Manuel Ocaña -UAH-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-academy-vladislav_kravchenko-2022.pdf), RoboticsAcademy laser mapping and laser localization exercises
