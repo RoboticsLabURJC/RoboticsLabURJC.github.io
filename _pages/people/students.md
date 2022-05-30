@@ -115,7 +115,7 @@ El objetivo de este TFG es implementar ejercicios de programación pura que no r
 ## Previous students
 
 ### 2022
-  - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-academy-carlos_caminero-2022.pdf), RoboticsAcademy, ROS2, TurtleBot2
+  - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-academy-carlos_caminero-2022.pdf), RoboticsAcademy, ROS2, TurtleBot2, Follow Person robot application
   - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/) (grad) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-Robotics_Academy-claudia_alvarez-2022.pdf), Unibotics analytics, based on Elasticsearch and DASH
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2021-tfm-pedro-arias) (master, co-advised with David Martín -UC3M-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-drones-followperson-pedro_arias-2022.pdf), DroneWrapper, follow person application with real drones, simulated drones and DeepLearning perception
   - [Vladislav Kravchenko](https://github.com/vladkrav/AmigoBot) (master, co-advised with Manuel Ocaña -UAH-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-academy-vladislav_kravchenko-2022.pdf), RoboticsAcademy laser mapping and laser localization exercises
