@@ -23,7 +23,7 @@ projects:
 
 Los interesados podéis contactar con el mentor correspondiente para ampliar información, enviar vuestro CV y listado de notas.
 
-### 1.- Realidad virtual en web y distribuida con [Networked-Aframe](https://github.com/networked-aframe)
+### 1.- ~~Realidad virtual en web y distribuida con [Networked-Aframe](https://github.com/networked-aframe)~~ [Ana Villanueva]
 
 En los últimos años la tecnología realidad virtual (VR) está aportando aplicaciones inmersivas útiles en entretenimiento (como videojuegos), en entrenamiento de profesionales (médicos, militares, pilotos) e incluso en educación. FaceBook también está apostando fuerte con escenarios virtuales en su metaverso. Además de emplearse con gafas de realidad virtual (Oculus Rift, HTC Vivo o Valve Index), también está madurando la tecnología para usarlo en navegadores web. En esa dirección [AFrame](https://aframe.io/) se está extendiendo como estandard de facto para combinar web con gafas de realidad virtual.
 
@@ -39,7 +39,7 @@ En el grupo ya tenemos experiencia manejando AFrame con varios TFGs, por ejemplo
 
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
-### 2.- Programación de aplicaciones robóticas reactivas con la herramienta visual [VisualCircuit](https://jderobot.github.io/VisualCircuit/)
+### 2.- ~~Programación de aplicaciones robóticas reactivas con la herramienta visual [VisualCircuit](https://jderobot.github.io/VisualCircuit/)~~ [David Tapiador]
 
 La manera habitual de programar aplicaciones robóticas es escribir su código fuente en un lenguaje de alto nivel como C++ o Python. Por ejemplo como un bucle infinito que en cada iteración comprueba valores de los sensores, toma alguna decisión y envía comandos a los actuadores del robot. En el entorno ROS las aplicaciones son varios nodos ejecutando concurrentemente e intercambiando mensajes entre sí (*topics*). Una manera alternativa es diseñar la aplicación robótica como si fuera un circuito, con entradas, salidas y bloques internos conectados entre sí mediante "cables", como si fueran componentes electrónicos. Las entradas del circuito global se conectan a los sensores y las salidas a los actuadores del robot. Esta filosofía se usa mucho en Computación Reconfigurable (FPGAs). 
 
@@ -88,6 +88,7 @@ El objetivo de este TFG es implementar ejercicios de programación pura que no r
 
 
 ### Current Master students
+  - [Enrique Shinohara](https://roboticslaburjc.github.io/2022-tfm-enrique-shinohara/), Deep Reinforcement Learning in Robotics
 <!---  - José Miguel Zamora, Machine Learning in Robotics -->
   - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
   - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), RoboticsAcademy: Visual 3D odometry exercise
