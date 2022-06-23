@@ -51,6 +51,11 @@ projects:
     title: <a href='https://github.com/almartinflorido' target='_blank'>Pedro M. Cuenca</a>
     excerpt: "Profesor asociado"
 
+  - image_path: /assets/images/community/contributors/lia-garcia.jpg
+    alt: "Lía García Pérez"
+    title: <a href='https://github.com/liagar' target='_blank'>Pedro M. Cuenca</a>
+    excerpt: "Colaboradora, U.Complutense Madrid"
+
 #  - image_path: /assets/images/community/contributors/frivas.jpg
 #    alt: "Francisco Rivas"
 #    title: <a href='https://github.com/chanfr' target='_blank'>Francisco Rivas</a>
