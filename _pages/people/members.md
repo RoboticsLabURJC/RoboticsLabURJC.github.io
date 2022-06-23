@@ -53,7 +53,7 @@ projects:
 
   - image_path: /assets/images/community/contributors/lia-garcia.jpg
     alt: "Lía García Pérez"
-    title: <a href='https://github.com/liagar' target='_blank'>Pedro M. Cuenca</a>
+    title: <a href='https://github.com/liagar' target='_blank'>Lía García</a>
     excerpt: "Colaboradora, U.Complutense Madrid"
 
 #  - image_path: /assets/images/community/contributors/frivas.jpg
