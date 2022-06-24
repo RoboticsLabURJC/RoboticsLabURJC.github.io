@@ -103,7 +103,6 @@ El objetivo de este TFG es implementar ejercicios de programación pura que no r
 ### Current Grad students
   - [Ana Villanueva](https://roboticslaburjc.github.io/2022-tfg-ana-villanueva/), Networked A-Frame for robotic games
   - [David Tapiador](https://roboticslaburjc.github.io/2022-tfg-david-tapiador), VisualCircuit for robotics applications
-  - [Raúl Fernández](https://github.com/RoboticsLabURJC/2022-tfg-raul-fernandez) (co-advised with Daniel Palacios -URJC-), Unibotics
   - [Felicidad Abad](https://roboticslaburjc.github.io/2021-tfg-felicidad-abad/), Unibotics, automatic testing, vision based exercises
   - [Daniel Hervás](https://roboticslaburjc.github.io/2021-tfg-daniel-hervas), Unibotics, robot programming games
   - [Álvaro Martín](https://roboticslaburjc.github.io/2020-tfg-alvaro-martin) (co-advised with Inmaculada Mora -URJC-), Predicting images, learning time sequences
@@ -117,6 +116,7 @@ El objetivo de este TFG es implementar ejercicios de programación pura que no r
 ## Previous students
 
 ### 2022
+  - [Raúl Fernández](https://github.com/RoboticsLabURJC/2022-tfg-raul-fernandez) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-academy-torneos_automaticos-raul_fernandez-2022.pdf) (co-advised with Daniel Palacios -URJC-), automatic competitions at Unibotics
   - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-academy-carlos_caminero-2022.pdf), RoboticsAcademy, ROS2, TurtleBot2, Follow Person robot application
   - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/) (grad) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-Robotics_Academy-claudia_alvarez-2022.pdf), Unibotics analytics, based on Elasticsearch and DASH
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2021-tfm-pedro-arias) (master, co-advised with David Martín -UC3M-) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfm-drones-followperson-pedro_arias-2022.pdf), DroneWrapper, follow person application with real drones, simulated drones and DeepLearning perception
