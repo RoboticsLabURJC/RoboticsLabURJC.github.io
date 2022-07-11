@@ -107,14 +107,14 @@ El objetivo de este TFG es implementar ejercicios de programación pura que no r
   - [Álvaro Martín](https://roboticslaburjc.github.io/2020-tfg-alvaro-martin) (co-advised with Inmaculada Mora -URJC-), Predicting images, learning time sequences
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
-  - [Eva García](https://github.com/RoboticsLabURJC/2017-tfg-eva_garcia), mBot robot programming in Python, PyBoKids
-  - [Richard Nicklas](https://roboticslaburjc.github.io/2017-tfg-richard-nicklas) (co-advised with Felipe Machado -URJC-), computer vision algorithms on FPGAs
 
 
 &nbsp;
 ## Previous students
 
 ### 2022
+  - [Eva García](https://github.com/RoboticsLabURJC/2017-tfg-eva_garcia),[(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-pybokids2-eva_garcia-2022.pdf), mBot robot programming in Python, PyBoKids
+  - [Richard Nicklas](https://roboticslaburjc.github.io/2017-tfg-richard-nicklas) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-fpgas-simulated_fpgas_and_robotics-richard_nicklas-2022.pdf) (co-advised with Felipe Machado -URJC-), computer vision algorithms on FPGAs
   - [Daniel Hervás](https://roboticslaburjc.github.io/2021-tfg-daniel-hervas), [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-academy-gamificacion-daniel_hervas-2022.pdf), Unibotics, robot programming games
   - [Raúl Fernández](https://github.com/RoboticsLabURJC/2022-tfg-raul-fernandez) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-academy-torneos_automaticos-raul_fernandez-2022.pdf) (co-advised with Daniel Palacios -URJC-), automatic competitions at Unibotics
   - [Carlos Caminero](https://roboticslaburjc.github.io/2021-tfg-carlos-caminero) [(pdf)](https://gsyc.urjc.es/jmplaza/students/tfg-academy-carlos_caminero-2022.pdf), RoboticsAcademy, ROS2, TurtleBot2, Follow Person robot application
