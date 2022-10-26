@@ -6,7 +6,7 @@ youtubeId1: xg40zN9tJqw
 
 sidebar:
   nav: "docs"
-  
+
 toc: true
 toc_label: "Students"
 toc_icon: "cog"
@@ -41,18 +41,18 @@ En el grupo ya tenemos experiencia manejando AFrame con varios TFGs, por ejemplo
 
 ### 2.- ~~Programación de aplicaciones robóticas reactivas con la herramienta visual [VisualCircuit](https://jderobot.github.io/VisualCircuit/)~~ [David Tapiador]
 
-La manera habitual de programar aplicaciones robóticas es escribir su código fuente en un lenguaje de alto nivel como C++ o Python. Por ejemplo como un bucle infinito que en cada iteración comprueba valores de los sensores, toma alguna decisión y envía comandos a los actuadores del robot. En el entorno ROS las aplicaciones son varios nodos ejecutando concurrentemente e intercambiando mensajes entre sí (*topics*). Una manera alternativa es diseñar la aplicación robótica como si fuera un circuito, con entradas, salidas y bloques internos conectados entre sí mediante "cables", como si fueran componentes electrónicos. Las entradas del circuito global se conectan a los sensores y las salidas a los actuadores del robot. Esta filosofía se usa mucho en Computación Reconfigurable (FPGAs). 
+La manera habitual de programar aplicaciones robóticas es escribir su código fuente en un lenguaje de alto nivel como C++ o Python. Por ejemplo como un bucle infinito que en cada iteración comprueba valores de los sensores, toma alguna decisión y envía comandos a los actuadores del robot. En el entorno ROS las aplicaciones son varios nodos ejecutando concurrentemente e intercambiando mensajes entre sí (*topics*). Una manera alternativa es diseñar la aplicación robótica como si fuera un circuito, con entradas, salidas y bloques internos conectados entre sí mediante "cables", como si fueran componentes electrónicos. Las entradas del circuito global se conectan a los sensores y las salidas a los actuadores del robot. Esta filosofía se usa mucho en Computación Reconfigurable (FPGAs).
 
 Con la financiación de Googe (GSoC-2020) en la asociación JdeRobot crearon la herramienta gráfica [VisualCircuit](https://jderobot.github.io/VisualCircuit/) para facilitar la creación de aplicaciones robóticas siguiendo esta filosofía. Cada bloque es un proceso de Python, iterativo, y los cables entre bloques se implementan con memoria compartida. Varias aplicaciones se desarrollaron con ROS1 y con visión para validar su funcionamiento. Este trabajo fue seleccionado en [ROS World 2020](https://www.youtube.com/watch?v=FDi2-TTH9z0) como charla relámpago. En GSoC-2021 se construyó el servidor web [visualcircuit.org](https://visualcircuit.org/) para ofrecer esa misma funcionalidad desde el browser, sin necesidad de instalar nada. Este trabajo también fue seleccionado dentro de la [ROS World 2021](https://www.youtube.com/watch?v=FDi2-TTH9z0).
 
 Se ofrece un TFG sobre la creación usando VisualCircuit de varias aplicaciones robóticas reactivas con robots variados (un drone, un TurtleBot2, un coche autónomo). También se abordará la extensión de la herramienta para soportar robots con drivers en ROS2. Es recomendable manejar GitHub e inglés escrito con cierta soltura, interactuarás con el equipo internacional de desarrolladores de esta herramienta.
 
-- **Orientado a** Alumnos del Grado de Ingeniería en Robótica Software 
+- **Orientado a** Alumnos del Grado de Ingeniería en Robótica Software
 - **Mentor:** José María Cañas (josemaria.plaza AT urjc.es)
 
 
 <p class="aligncenter">
-<img src="/assets/images/community/VisualCircuit.png"> 
+<img src="/assets/images/community/VisualCircuit.png">
 </p>
 
 <figure class="half">
@@ -65,7 +65,7 @@ Se ofrece un TFG sobre la creación usando VisualCircuit de varias aplicaciones 
 
 En la actualidad, tanto en carreras técnicas como en algunas no consideradas técnicas, adquirir competencias de programación se está convirtiendo en algo obligatorio. Es por ello por lo que muchas instituciones trabajan para ofrecer a los estudiantes recursos para apoyarlos durante las asignaturas de introducción a la programación. Para facilitar este apoyo, es necesario facilitar las herramientas apropiadas para que la asignatura pueda transcurrir con éxito, facilitando estas plataformas apoyo tanto a los docentes como a los estudiantes.
 
-[Unibotics](https://unibotics.org/) es una plataforma Web que inicialmente fue concebida para la enseñanza de la programación de robots. En dicha plataforma y para cada ejercicio disponible, se ofrecen una serie de evaluadores (de estilo, de funcionalidad, etc...) que permiten a los estudiantes obtener una retroalimentación automática sobre el código que escriben. Además, en la propia plataforma los estudiantes disponen de un historial con sus calificaciones, pudiendo ser conscientes en todo momento de su evolución. 
+[Unibotics](https://unibotics.org/) es una plataforma Web que inicialmente fue concebida para la enseñanza de la programación de robots. En dicha plataforma y para cada ejercicio disponible, se ofrecen una serie de evaluadores (de estilo, de funcionalidad, etc...) que permiten a los estudiantes obtener una retroalimentación automática sobre el código que escriben. Además, en la propia plataforma los estudiantes disponen de un historial con sus calificaciones, pudiendo ser conscientes en todo momento de su evolución.
 
 El objetivo de este TFG es implementar ejercicios de programación pura que no requieren de un simulador robótico, si no que directamente el usuario podrá escribir su código en la plataforma Web y obtener el resultado de la ejecución directamente a través de la plataforma. De esta manera, además de tener acceso a herramientas de autoevaluación, no sería tampoco necesario que tuvieran que instalar ningún tipo de herramienta.
 
@@ -105,6 +105,10 @@ El objetivo de este TFG es implementar ejercicios de programación pura que no r
   - [David Tapiador](https://roboticslaburjc.github.io/2022-tfg-david-tapiador), VisualCircuit for robotics applications
   - [Felicidad Abad](https://roboticslaburjc.github.io/2021-tfg-felicidad-abad/), Unibotics, automatic testing, vision based exercises
   - [Álvaro Martín](https://roboticslaburjc.github.io/2020-tfg-alvaro-martin) (co-advised with Inmaculada Mora -URJC-), Predicting images, learning time sequences
+  - [Cristian Sanchez](https://github.com/RoboticsLabURJC/2022-tfg-cristian-sanchez) [advised by Roberto Calvo] Drones, reinforcement learning, signan localization.
+  - [Verónica Tornero](https://roboticslaburjc.github.io/2022-tfg-veronica-tornero) [advised by Roberto Calvo] Exoskeletons, control systems, deep learning, posenetx.    
+  - [Luis Miguel Lopez](https://roboticslaburjc.github.io/2022-tfg-luismiguel-lopez) [advised by Roberto Calvo] Reinforcement learning, autonomous driving, aws deep racer.    
+
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
 
@@ -157,5 +161,3 @@ El objetivo de este TFG es implementar ejercicios de programación pura que no r
 
 ### 2018
   - [Vanessa Fernández](http://roboticslaburjc.github.io/2016-tfg-vanessa-fernandez), new exercises at RoboticsAcademy
-
-
