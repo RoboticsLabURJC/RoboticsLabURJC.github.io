@@ -2,6 +2,8 @@
 main:
   - title: People
     url: /people/members
+  - title: TFG
+    url: /tfg
   - title: Publications
     url: /publications/
   - title: "Projects"
@@ -17,6 +19,9 @@ docs:
       - title: "Students"
         url: /people/students
 
+  - title: "TFG"
+    url: /tfg
+    
   - title: "Publications"
     url: /publications
  
