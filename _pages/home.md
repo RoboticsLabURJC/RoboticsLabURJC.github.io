@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#aaaaaa"
-  overlay_image: /assets/images/cover/peloto_texto_urjc.png
+  overlay_image: /assets/images/cover/cover.jpg
   #actions:
   #  - label: "<i class='fas fa-github'></i> GitHub"
   #    url: "https://github.com/JdeRobot"

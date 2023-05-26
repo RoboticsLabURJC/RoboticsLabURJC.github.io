@@ -33,7 +33,7 @@ projects:
 
   - image_path: /assets/images/community/contributors/Roberto_Calvo_Palomino.jpg
     alt: "Roberto Calvo"
-    title: <a href='https://github.com/rperezgonz' target='_blank'>Roberto Calvo</a>
+    title: <a href='https://github.com/rocapal' target='_blank'>Roberto Calvo</a>
     excerpt: "Machine Learning in Robotics"
 
   - image_path: /assets/images/community/contributors/felipe-machado.jpg
