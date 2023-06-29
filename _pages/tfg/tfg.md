@@ -28,6 +28,29 @@ feature_row:
     supervisor: "Roberto Calvo"
     requirements: "ROS, python3, C, sistemas empotrados"
     
+  - image_path: /assets/images/tfg/conditional-imitation-learning.png
+    alt: "Conditional Imitation Learning"
+    title: "Conducción autónoma mediante comandos de alto nivel"
+    excerpt: "Dentro de la conducción autónoma, se puede realizar un control del vehículo mediante aprendizaje por imitación (imitation learning) y con una perspectiva extremo a extremo (end-to-end). En este proyecto buscamos añadir al control de un vehículo autónomo capacidades para toma de decisiones basadas en comandos de alto nivel como podría ser gira a la derecha o sigue recto."
+    supervisor: "José María Cañas y Sergio Paniego"
+    requirements: "ROS, Deep Learning, Python3"
+    
+  - image_path: /assets/images/tfg/autonomous-driving-perception.png
+    alt: "Autonomous driving perception"
+    title: "Conducción autónoma con percepción del entorno"
+    excerpt: "Los vehículos autónomos necesitan comprender el entorno para tomar decisiones de calidad. En este proyecto desarrollarás un sistema capaz de conducir teniendo en cuenta señales de tráfico, semáforos... basándonos en visión."
+    supervisor: "José María Cañas y Sergio Paniego"
+    requirements: "ROS, Deep Learning, Python3"
+    
+  - image_path: /assets/images/tfg/modular-autonomous-driving.png
+    alt: "Autonomous driving expert modules"
+    title: "Conducción autónoma con redes especializadas para tareas determinadas"
+    excerpt: "Un sistema de conducción autónoma puede contar con diferentes módulos para realizar un control de mayor calidad. En este proyecto, desarrollarás un sistemas de conducción autónoma capaz de controlar un vehículo mediante módulos especializados en diferentes tareas, como puede ser ir recto o tomar curvas."
+    supervisor: "José María Cañas y Sergio Paniego"
+    requirements: "ROS, Deep Learning, Python3"   
+  
+  
+    
     
 
 
