@@ -9,6 +9,11 @@ tags:
   - tutor:rocapal 
 ---
 
+
+Verónica Tornero has successfully presented her final degree project named **"Sistema de control para la rehabilitación motora con
+un exoesqueleto y evaluación de redes posnet como ayuda a terapias"**.
+
+
 | Information and Resources  | |
 | :--- |
 | Work |  [PDF](https://github.com/RoboticsLabURJC/2022-tfg-veronica-tornero/blob/main/final/2022-23-EIF-A-2327-2327037-v.tornero.2018-MEMORIA.pdf)| 
@@ -19,10 +24,7 @@ tags:
 
 <div style="text-align: justify"> 
 
-Verónica Tornero has successfully presented her final degree project named <b>"Sistema de control para la rehabilitación motora con
-un exoesqueleto y evaluación de redes posnet como ayuda a terapias"</b>.
-<br>
-<br>
+
 Robotics and Artificial Intelligence (AI) are areas in continuous expansion that covers many different fields. One of the sectors that has benefited the most of the development of this industry is medicine. People who present any injury, disability, who need help to walk or who have suffered an accident cerebrovascular disease, require assistance to accelerate their recovery and improve their quality of life. Exoskeletons play a fundamental role by allowing them to perform rehabilitation exercises quickly and efficiently, relieving the physical load of the therapists involved. Due to this, designing and developing new programs of rehabilitation that are integrated into these devices is absolutely necessary, with the purpose of addressing the different problems that patients face in your recovery process.
 
 <br>
@@ -46,6 +48,7 @@ Finally, in this project it has been possible to develop a solid and stable solu
 </div>
 <br>
 <br>
+
 
 
 <video src="https://raw.githubusercontent.com/RoboticsLabURJC/2022-tfg-veronica-tornero/main/final/video.mp4" controls="controls" style="max-width: 600px;">
