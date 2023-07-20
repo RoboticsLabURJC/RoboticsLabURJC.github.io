@@ -1,25 +1,23 @@
 # main links
 main:
-  - title: People
-    url: /people/members
-  - title: TFG
+  - title: "Blog"
+    url: /year-archive/
+  - title: Ofertas TFG
     url: /tfg
   - title: Publications
     url: /publications/
   - title: "Projects"
     url: /projects
+  - title: People
+    url: /people/members
+  
 
 # left side bar
 docs:
-  - title: People
-    url: /people/members
-    children:
-      - title: "Members"
-        url: /people/members
-      - title: "Students"
-        url: /people/students
+  - title: "Blog"
+    url: /year-archive/
 
-  - title: "TFG"
+  - title: "Ofertas TFG"
     url: /tfg
     
   - title: "Publications"
@@ -32,4 +30,12 @@ docs:
         url: /projects#Public-funding-projects
       - title: "Industry"
         url: /projects#Industry-projects
+
+  - title: People
+    url: /people/members
+    children:
+      - title: "Members"
+        url: /people/members
+      - title: "Students"
+        url: /people/students
  

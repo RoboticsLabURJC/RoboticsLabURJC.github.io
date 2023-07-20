@@ -40,15 +40,39 @@ youTube_id: ID7qaEcIu4k
 ---
 
 
+<figure class="third">
+    <a href="http://www.urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg" style="height:150px;"></a>
+    <a href="http://www.urjc.es/eif" target="_blank"><img src="/assets/images/cover/logo-eif.png" style="height:130px;"></a>
+</figure>
+
 <figure class="third" style="text-align: center">
     <a href="https://github.com/RoboticsLabURJC" target="_blank"><img src="/assets/images/cover/github_social_button.png" style="width:200px;"></a>
     <a href="https://twitter.com/roboticslaburjc" target="_blank"><img src="/assets/images/cover/twitter_social_button.png" style="width:200px;"></a>
     <a href="https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ/videos" target="_blank"><img src="/assets/images/cover/youtube_social_button.png" style="width:200px;"></a>
 </figure>
 
+
+
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			{% if site.posts.size > 0 %}
+				<h4 class="lates-title">Latest Posts</h4>
+			{% endif %}
+		</div>
+	</div>
+</div>
+
+
 {% include feature_row %}
 
+
+
+
+
 Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, ICE, DDS...). Building robotics applications is a complex task. Integrating existing nodes or libraries, which provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, libraries and reusable nodes for Robotics and Computer Vision.
+
+
 
 | Main Features |
 | :--- |
@@ -145,10 +169,4 @@ We are registered as **non-profit organization** in Spain Ref.#615800.
     <a href="/assets/images/cover/projects.png"><iframe src="https://www.youtube.com/embed/gDP9nWCL0Vg"></iframe></a>
     <a href="/assets/images/cover/activities.jpg"><iframe src="https://www.youtube.com/embed/1iYlJLJkESU"></iframe></a>
 <!--    <figcaption>Last two videos from YouTube channel.</figcaption> -->
-</figure>
-
-
-<figure class="third">
-    <a href="https://urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg" style="width:400px;"></a>
-    <a href="https://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/content/89-etsit-escuela-tecnica-superior-de-ingenieria-de-telecomunicacion" target="_blank"><img src="/assets/images/cover/etsit-urjc.jpg" style="width:200px;"></a>
 </figure>
