@@ -12,7 +12,7 @@ classes: wide
 
 ## Autonomous Driving in Traffic with End-to-End Vision-based Deep Learning
 
-- Dataset: 
-- Code:[https://github.com/JdeRobot/DeepLearningStudio](https://github.com/JdeRobot/DeepLearningStudio)
+- Dataset: [https://huggingface.co/datasets/YujiroS/traffic-6](https://huggingface.co/datasets/YujiroS/traffic-6)
+- Code:[https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara](https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara)
 - Comparison software tool: [https://github.com/JdeRobot/BehaviorMetrics](https://github.com/JdeRobot/BehaviorMetrics)
-- Model weights: 
+- Model weights: [https://huggingface.co/YujiroS/subjective_vision_pilotnet](https://huggingface.co/YujiroS/subjective_vision_pilotnet)
