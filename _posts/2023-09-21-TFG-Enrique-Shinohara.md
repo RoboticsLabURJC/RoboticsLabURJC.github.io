@@ -16,8 +16,8 @@ Enrique Shinohara  has successfully presented her final master's project named *
 
 | Information and Resources  | |
 | :--- |
-| Work |  [PDF](https://roboticslaburjc.github.io/2022-tfm-enrique-shinohara/)| 
-| Slides | [PDF]() |
+| Work |  [PDF](https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara/blob/main/final/TFM_final.pdf)| 
+| Slides | [PDF](https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara/blob/main/final/TFM_presentacion_FINAL_v5.0.pptx) |
 | Git Repository | [Link](https://github.com/RoboticsLabURJC/2022-tfm-enrique-shinohara)|
 | Tutor | JoseMaria Cañas Plaza and Sergio Paniego |
 
