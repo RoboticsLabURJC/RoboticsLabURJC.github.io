@@ -16,6 +16,16 @@ projects:
     title: <a href='https://gsyc.urjc.es/jmplaza/' target='_blank'>JoseMaría Cañas</a>
     excerpt: "Cofounder"
 
+  - image_path: /assets/images/community/contributors/Roberto_Calvo_Palomino.jpg
+    alt: "Roberto Calvo"
+    title: <a href='https://github.com/rocapal' target='_blank'>Roberto Calvo</a>
+    excerpt: "Machine Learning in Robotics"
+
+  - image_path: /assets/images/community/contributors/spaniego.png
+    alt: "Sergio Paniego"
+    title: <a href='https://github.com/sergiopaniego' target='_blank'>Sergio Paniego</a>
+    excerpt: "Machine Learning in Robotics"
+
   - image_path: /assets/images/community/contributors/jesus-fernandez.jpg
     alt: "Jesús Fernández conde"
     title: <a href='https://github.com/cawadall' target='_blank'>Jesús Fernández Conde</a>
@@ -26,35 +36,26 @@ projects:
     title: <a href='https://github.com/davidrol6' target='_blank'>David Roldán</a>
     excerpt: "RoboticsAcademy, Unibotics"
 
-  - image_path: /assets/images/community/contributors/julio-vega.jpg
-    alt: "Julio Vega"
-    title: <a href='https://gestion2.urjc.es/pdi/ver/julio.vega' target='_blank'>Julio Vega</a>
-    excerpt: ""
+  #- image_path: /assets/images/community/contributors/julio-vega.jpg
+  #  alt: "Julio Vega"
+  #  title: <a href='https://gestion2.urjc.es/pdi/ver/julio.vega' target='_blank'>Julio Vega</a>
+  #  excerpt: ""
 
-  - image_path: /assets/images/community/contributors/Roberto_Calvo_Palomino.jpg
-    alt: "Roberto Calvo"
-    title: <a href='https://github.com/rocapal' target='_blank'>Roberto Calvo</a>
-    excerpt: "Machine Learning in Robotics"
 
   - image_path: /assets/images/community/contributors/felipe-machado.jpg
     alt: "Felipe Machado"
     title: <a href='https://github.com/rperezgonz' target='_blank'>Felipe Machado</a>
     excerpt: "Reconfigurable Computing in Robotics"
 
-  - image_path: /assets/images/community/contributors/spaniego.png
-    alt: "Sergio Paniego"
-    title: <a href='https://github.com/sergiopaniego' target='_blank'>Sergio Paniego</a>
-    excerpt: "Machine Learning in Robotics"
-
   - image_path: /assets/images/community/contributors/pedro-cuenca.jpg
     alt: "Pedro M. Cuenca"
     title: <a href='https://github.com/almartinflorido' target='_blank'>Pedro M. Cuenca</a>
     excerpt: "Profesor asociado"
 
-  - image_path: /assets/images/community/contributors/lia-garcia.jpg
-    alt: "Lía García Pérez"
-    title: <a href='https://github.com/liagar' target='_blank'>Lía García</a>
-    excerpt: "Colaboradora, U.Complutense Madrid"
+#  - image_path: /assets/images/community/contributors/lia-garcia.jpg
+#    alt: "Lía García Pérez"
+#    title: <a href='https://github.com/liagar' target='_blank'>Lía García</a>
+#    excerpt: "Colaboradora, U.Complutense Madrid"
 
 #  - image_path: /assets/images/community/contributors/frivas.jpg
 #    alt: "Francisco Rivas"
@@ -86,14 +87,15 @@ projects:
 
 {% include feature_row_advanced %}
 
+
 ## Previous and awesome Members
 
 - [Diego Martín Martín](https://gestion2.urjc.es/pdi/ver/diego.martin.martin): Drones, Industrial Robotics
-- [Francisco Martín Rico](https://github.com/fmrico)
 - [Carlos Agüero](https://github.com/caguero) (Open Robotics Org)
 - [Pablo Barrera](https://github.com/pbarrera) (Google)
 <!--  - [Juan Gonzalez](https://github.com/Obijuan): FPGA-robotics. -->
 - [Vicente Matellán](https://robotica.unileon.es/vmo): Cofounder (now at Universidad de León)
+- [Francisco Martín Rico](https://github.com/fmrico)
 
 ## Previous Research assistants
 
