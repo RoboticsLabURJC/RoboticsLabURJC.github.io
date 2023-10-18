@@ -45,10 +45,11 @@ youTube_id: ID7qaEcIu4k
     <a href="http://www.urjc.es/eif" target="_blank"><img src="/assets/images/cover/logo-eif.png" style="height:130px;"></a>
 </figure>
 
-<figure class="third" style="text-align: center">
+<figure style="text-align: center">
     <a href="https://github.com/RoboticsLabURJC" target="_blank"><img src="/assets/images/cover/github_social_button.png" style="width:200px;"></a>
     <a href="https://twitter.com/roboticslaburjc" target="_blank"><img src="/assets/images/cover/twitter_social_button.png" style="width:200px;"></a>
     <a href="https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ/videos" target="_blank"><img src="/assets/images/cover/youtube_social_button.png" style="width:200px;"></a>
+    <a href="https://www.linkedin.com/company/roboticslaburjc/" target="_blank"><img src="/assets/images/cover/Linkedin-logo-png.png" style="width:200px;"></a>
 </figure>
 
 
