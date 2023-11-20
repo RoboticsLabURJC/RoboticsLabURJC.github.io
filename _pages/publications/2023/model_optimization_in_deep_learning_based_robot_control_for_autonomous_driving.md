@@ -28,7 +28,17 @@ For the comparison, offline metrics such as mean squared error and inference tim
 - <img src="https://static-00.iconduck.com/assets.00/comparison-icon-512x512-vl4u7s2n.png" width="5%" height="5%"/> Comparison software tool with simulator: [https://github.com/JdeRobot/BehaviorMetrics](https://github.com/JdeRobot/BehaviorMetrics)
 - <img src="https://cdn-icons-png.flaticon.com/512/6461/6461819.png" width="5%" height="5%"/> Models' weights: [https://huggingface.co/sergiopaniego/OptimizedPilotNet](https://huggingface.co/sergiopaniego/OptimizedPilotNet)
 
+## Citation
 
+``` 
+@article{Paniego2023,
+  title={Model Optimization in Deep Learning based Robot Control for Autonomous Driving},
+  author={Sergio Paniego and Nikhil Paliwal and Jos{\'e} M. Cañas},
+  journal={IEEE Robotics and Automation Letters (RA-L)},
+  year={2023},
+  pages={}
+}
+``` 
 
 
 
