@@ -14,6 +14,8 @@ Journals, congress papers and research publications can be found below:
 
 # 2023
 
+* [Model Optimization in Deep Learning based Robot Control for Autonomous Driving IEEE Robotics and Automation Letters (RA-L). Sergio Paniego; Nikhil Paliwal; JoseMaria Cañas](/publications/2023/model_optimization_in_deep_learning_based_robot_control_for_autonomous_driving).
+
 * Experimental analysis of the effectiveness of a Cyber-physical Robotic System to assist speech and language pathologists in high school. Journal of New Approaches in Educational Research. U. Alicante. Eldon Caldwell Marín; Miguel Cazorla; José María Cañas. 
 
 * A middleware infrastructure for programming vision-based applications in UAVs. Drones. MDPI. 6-11. Pedro Arias Pérez; Jesús Fernández Conde; David Martín Gómez; José
