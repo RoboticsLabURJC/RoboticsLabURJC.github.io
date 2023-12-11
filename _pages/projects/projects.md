@@ -49,7 +49,7 @@ classes: wide
 
  * S2018/NMT-4331,  RoboCity 2030 - Madrid Robotics Digital Innovation Hub. 2018-2022 
 
- * (TKNIKA) Estudio de plataformas embebedias para IA y docencia
+ * (TKNIKA) Estudio de plataformas embebidas para IA y docencia
  
  * Sistema Integral de Gestión de Lodos  EUROPEA DE HINCAS TELEDIRIGIDAS SA.  09/02/2022-09/11/2022
 
