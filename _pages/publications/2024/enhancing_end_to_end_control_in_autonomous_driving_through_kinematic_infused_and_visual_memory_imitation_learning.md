@@ -1,6 +1,6 @@
 ---
-permalink: /publications/2023/memory_base_neural_networks_for_end_to_end_control_in_imitation_learning_autonomous_driving
-title: "Memory-based Neural Networks for End-to-End Control in Imitation Learning Autonomous Driving"
+permalink: /publications/2023/enhancing_end_to_end_control_in_autonomous_driving_through_kinematic_infused_and_visual_memory_imitation_learning
+title: "Enhancing End-to-End Control in Autonomous Driving through Kinematic-Infused and Visual Memory Imitation Learning"
 
 sidebar:
   nav: "docs"
@@ -10,7 +10,7 @@ layout: archive
 classes: wide
 ---
 
-## Memory-based Neural Networks for End-to-End Control in Imitation Learning Autonomous Driving
+## Enhancing End-to-End Control in Autonomous Driving through Kinematic-Infused and Visual Memory Imitation Learning
 
 - Dataset: [https://huggingface.co/datasets/sergiopaniego/CarlaFollowLanePreviousV](https://huggingface.co/datasets/sergiopaniego/CarlaFollowLanePreviousV)
 - Code:[https://github.com/JdeRobot/DeepLearningStudio](https://github.com/JdeRobot/DeepLearningStudio)
