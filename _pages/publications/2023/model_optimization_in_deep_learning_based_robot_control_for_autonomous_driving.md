@@ -9,6 +9,7 @@ layout: single
 classes: wide
 ---
 <p style="text-align: center; font-weight: bold;">IEEE Robotics and Automation Letters (RA-L), 2023</p>
+<p style="text-align: center; font-weight: bold;">IEEE International Conference on Robotics and Automation (ICRA), 2024</p>
 
 <p style="text-align: center"><a href="https://sergiopaniego.github.io/">Sergio Paniego<sup>1,3</sup></a>, <a href="https://orcid.org/0000-0003-2777-5001">Nikhil Paliwal<sup>2,3</sup></a>, <a href="https://gsyc.urjc.es/jmplaza/">JoseMaria Cañas<sup>1,3</sup></a></p>
 <div class="container" style="overflow: hidden;">
