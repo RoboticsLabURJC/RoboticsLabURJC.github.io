@@ -44,21 +44,33 @@ As fans and active users of CARLA and AWS DeepRacer, we are continuously explori
       <h2>Imitation Learning</h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3KflagFjR8Q?si=iEqcnSyULQKxORk1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
   </div>
+
+  
   <div style="width: 33%; text-align: center; padding: 10px;">
-    <h2>Reinfocement Learning</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/g7wZ5BbI_jo?si=VrwPCL4v7GZznUO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    <h2>End-to-end Route Navigation</h2>
+
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/yfScvcrjYkg?si=sJPWTAZpjnls5qdH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
   </div> 
+ <div style="width: 33%; text-align: center; padding: 10px;">
+    <h2>Obstacle Avoidance</h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/PsmpY6ZeT4I?si=By8GQWS0yMYGn5Wi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+
+ 
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
+
+ <div style="width: 33%; text-align: center; padding: 10px;">
+    <h2>Reinfocement Learning</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/g7wZ5BbI_jo?si=VrwPCL4v7GZznUO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+
+  </div> 
   <div style="width: 33%; text-align: center; padding: 10px;">    
       <h2>Speed Adaptation</h2>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/jHeQ-mYWvl4?si=z7UsQnabu-qN2uaG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
-  <div style="width: 33%; text-align: center; padding: 10px;">
-    <h2>Obstacle Avoidance</h2>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/PsmpY6ZeT4I?si=By8GQWS0yMYGn5Wi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  </div>
+ 
 </div>
 
 
@@ -143,7 +155,7 @@ As fans and active users of CARLA and AWS DeepRacer, we are continuously explori
 <div style="display: flex; align-items: center; justify-content: space-around; max-width: 1200px; margin: auto; background-color: #f2f2f2; box-shadow: -8px 0 15px -3px rgba(0, 0, 0, 0.1);">
  
   <div style="flex: 1; padding: 20px;">
-    <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Imitation Learning - Autonomous driving</div>
+    <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;"> End-to-end vision based Autonomous Driving using Deep Learning</div>
     <a href="https://sergiopaniego.github.io/"><div style="font-size: 16px; color: #555; margin-bottom: 5px;">Sergio Paniego </div></a>
     <div style="font-size: 14px; color: #555;">In progress</div>
   </div>
