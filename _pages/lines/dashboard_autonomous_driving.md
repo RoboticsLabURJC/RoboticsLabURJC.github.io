@@ -139,7 +139,7 @@ As fans and active users of CARLA and AWS DeepRacer, we are continuously explori
 
 <div style="display: flex; align-items: center; justify-content: space-around; max-width: 1200px; margin: auto; background-color: #f2f2f2; box-shadow: -8px 0 15px -3px rgba(0, 0, 0, 0.1);">
   <div style="flex: 0 0 auto; padding: 20px;">
-    <img src="https://media.licdn.com/dms/image/D4E07AQHigOeIUPC3hA/group-logo_image-shrink_92x92/0/1707914721551?e=1709744400&v=beta&t=gdWrWdM2QIHWZyrC7vSeo8pM3yLkBSwBze5IrHx0Msg" alt="GAIA Logo" style="height: 100%; width: auto;"> <!-- La imagen ahora se ajustará al alto del contenedor -->
+    <img src="/assets/images/lines/gaia.jpg" alt="GAIA Logo" style="height: 100%; width: auto;"> <!-- La imagen ahora se ajustará al alto del contenedor -->
   </div>
   <div style="flex: 1; padding: 20px;">
     <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">GAIA: Gestión integral para la prevención, extinción y reforestación debido a incendios forestales</div>
@@ -213,9 +213,9 @@ As fans and active users of CARLA and AWS DeepRacer, we are continuously explori
         </a>
     </div>
     <div style="width: 33%; float: left; margin-bottom: 20px; text-align: center;">
-        <a href="http://www.uc3m.es">
-            <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_UC3M.svg/1024px-Logo_UC3M.svg.png" alt="Dataset">
-            <p>Universidad Carlos III de Madrid</p>
+        <a href="https://ampl.uc3m.es/">
+            <img style="max-width: 100%; height: auto; margin-bottom: 10px;" src="/assets/images/lines/ampl-uc3m.png" alt="Dataset">
+            <p>Autonomous Mobility and Perception Lab (AMPL) UC3M</p>
         </a>
     </div>
 </div>
