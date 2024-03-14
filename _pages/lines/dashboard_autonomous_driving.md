@@ -35,7 +35,7 @@ classes: wide
 
 In our robotics group, we are deeply engaged in advancing the field of autonomous driving, focusing our research on pivotal areas including vehicle perception and control systems. Our goal is to enhance the way autonomous vehicles understand and interact with their environment, ensuring they can navigate safely and efficiently in complex scenarios. We focus on different deep learning approaches (imitation learning, reinforcement learning) and architectures (modular, end-to-end) to achieve great autonomous behaviours.
 
-As fans and active users of CARLA and AWS DeepRacer, we are continuously exploring their limits and possibilities, integrating them into our research to push the boundaries of what is achievable in autonomous driving technology. Through our efforts, we aim to contribute meaningful advancements to the field, paving the way for safer, more reliable autonomous vehicles."
+As fans and active users of CARLA and AWS DeepRacer, we are continuously exploring their limits and possibilities, integrating them into our research to push the boundaries of what is achievable in autonomous driving technology. Through our efforts, we aim to contribute meaningful advancements to the field, paving the way for safer, more reliable autonomous vehicles.
 
 ## What we do
 
