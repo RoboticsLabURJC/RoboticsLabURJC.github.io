@@ -32,7 +32,7 @@ Neural networks such as PoseNet or FaceMesh can help to understand the dynamic o
 <br>
 <br>
 This work focuses on developing a system for detecting and analyzing emotions
-and behaviors based on AI on a teaching environment. Main objetivo of the proyect is to
+and behaviors based on AI on a teaching environment. Main goal of the project is to
 provide useful information to teachers about student performance. This system
 detection is based on algorithms that have been designed to perform a visual analysis of images and videos using pose and face neural networks for emotion detection. After all the analysis the information obtained is adapted to use as a guide and help for teachers, who will be able to understand visually the different events that occurred during a class in relation to a certain students.
 
