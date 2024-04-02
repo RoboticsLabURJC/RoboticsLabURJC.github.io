@@ -25,7 +25,7 @@ Journals, congress papers and research publications can be found below:
 * A middleware infrastructure for programming vision-based applications in UAVs. Drones. MDPI. 6-11. Pedro Arias Pérez; Jesús Fernández Conde; David Martín Gómez; José
 María Cañas Plaza; Pascual Campoy. 
 
-* Open Source Assessment of Deep Learning Visual Object Detection. Sensors. MDPI. 22-12. Sergio Paniego Blanco; Vinay Sharma; José María Cañas Plaza.  
+* [Open Source Assessment of Deep Learning Visual Object Detection. Sensors. MDPI. 22-12. Sergio Paniego Blanco; Vinay Sharma; José María Cañas Plaza](/publications/2022/open_source_assessment_of_deep_learning_visual_object_detection).
 
 * A Framework for Wireless Technology Classification using Crowdsensing Platforms. A Scalingi, D Giustiniano, R Calvo-Palomino, N Apostolakis, G Bovet IEEE INFOCOM 2023-IEEE Conference on Computer Communications, 1-10
 
