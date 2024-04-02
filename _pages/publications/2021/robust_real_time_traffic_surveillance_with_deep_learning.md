@@ -22,6 +22,19 @@ classes: wide
 
 Real-time vehicle monitoring in highways, roads, and streets may provide useful data both for infrastructure planning and for traffic management in general. Even though it is a classic research area in computer vision, advances in neural networks for object detection and classification, especially in the last years, made this area even more appealing due to the effectiveness of these methods. This study presents TrafficSensor, a system that employs deep learning techniques for automatic vehicle tracking and classification on highways using a calibrated and fixed camera. A new traffic image dataset was created to train the models, which includes real traffic images in poor lightning or weather conditions and low-resolution images. The proposed system consists mainly of two modules, first one responsible of vehicle detection and classification and a second one for vehicle tracking. For the first module, several neural models were tested and objectively compared, and finally, the YOLOv3 and YOLOv4-based network trained on the new traffic dataset were selected. The second module combines a simple spatial association algorithm with a more sophisticated KLT (Kanade–Lucas–Tomasi) tracker to follow the vehicles on the road. Several experiments have been conducted on challenging traffic videos in order to validate the system with real data. Experimental results show that the proposed system is able to successfully detect, track, and classify vehicles traveling on a highway on real time.
 
+## Videos
+
+<div style="display: flex;justify-content: space-around;margin-bottom: 20px;">
+    <div style="width: 45%;">
+      <h2>High Quality Video</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/xDzGYq1Kl-8" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div style="width: 45%;">
+      <h2>Low Quality and Unfavorable Weather Conditions Video</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/SKO2n4zFbnU" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
 ## Materials
 
 <div class="container" style="overflow: hidden;">

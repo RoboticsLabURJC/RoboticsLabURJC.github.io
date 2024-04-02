@@ -24,6 +24,30 @@ classes: wide
 
 The development and validation of autonomous driving solutions require testing broadly in simulation. Addressing this requirement, we present Behavior Metrics (BM) for the quantitative and qualitative assessment and comparison of solutions for the main autonomous driving tasks. This software provides two evaluation pipelines, one with a graphical user interface used for qualitative assessment and the other headless for massive and unattended tests and benchmarks. It generates a series of quantitative metrics complementary to the simulator’s, including fine-grained metrics for each particular driving task (lane following, driving in traffic, route navigation, etc.). It provides a deeper and broader understanding of the solutions’ performance and allows their comparison and improvement. It uses and supports state-of-the-art open software such as the reference CARLA simulator, the ROS robotics middleware, PyTorch, and TensorFlow deep learning frameworks. BehaviorMetrics is available open-source for the community.
 
+## Videos
+
+<div style="display: flex;justify-content: space-around;margin-bottom: 20px;">
+    <div style="width: 45%;">
+      <h2>GUI mode</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ze_LDkmCymk" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div style="width: 45%;">
+      <h2>Headless mode</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/rcrOF5t3MC4" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div style="display: flex;justify-content: space-around;margin-bottom: 20px;">
+    <div style="width: 45%;">
+      <h2>Usage in GSoC '23</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/yfScvcrjYkg" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div style="width: 45%;">
+      <h2>Usage in GSoC '22</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Af3XARX-jaY" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
 ## Materials
 
 <div class="container" style="overflow: hidden;">
