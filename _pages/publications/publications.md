@@ -40,7 +40,7 @@ María Cañas Plaza; Pascual Campoy.
 
 * Pedro Cuenca Jiménez; Jesús Fernández Conde; José María Cañas Plaza.  2021.  FilterNet: Self-Supervised Learning for High-Resolution Photo Enhancement. IEEE Access. IEEE1. 10, pp.2669-2685.
 
-* Robust Real-Time Traffic Surveillance with Deep Learning. Jessica Fernández Martínez; José María Cañas Plaza; Vanessa Fernández Martínez; Sergio Paniego Blanco. Computational Intelligence and Neuroscience. Hindawi.
+* [Robust Real-Time Traffic Surveillance with Deep Learning. Jessica Fernández Martínez; José María Cañas Plaza; Vanessa Fernández Martínez; Sergio Paniego Blanco. Computational Intelligence and Neuroscience. Hindawi.](/publications/2021/robust_real_time_traffic_surveillance_with_deep_learning)
 
 * Computing  for  Reactive  Robotics  Using Open-Source FPGAs. José María Cañas Plaza; Jesús Fernández Conde; Julio Vega Pérez; Juan  Ordoñez  Cerezo. 2021. Reconfigurable   Electronics. MDPI. 11-1.
 

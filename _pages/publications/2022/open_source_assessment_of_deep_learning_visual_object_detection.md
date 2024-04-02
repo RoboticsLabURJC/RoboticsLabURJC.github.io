@@ -21,8 +21,8 @@ classes: wide
 
 ## Abstract
 
-Abstract
 This paper introduces Detection Metrics, an open-source scientific software for the assessment of deep learning neural network models for visual object detection. This software provides objective performance metrics such as mean average precision and mean inference time. The most relevant international object detection datasets are supported along with the most widely used deep learning frameworks. Different network models, even those built from different frameworks, can be fairly compared in this way. This is very useful when developing deep learning applications or research. A set of tools is provided to manage and work with different datasets and models, including visualization and conversion into several common formats. Detection Metrics may also be used in automatic batch processing for large experimental tests, saving researchers time, and new domain-specific datasets can be easily created from videos or webcams. It is open-source, can be audited, extended, and adapted to particular requirements. It has been experimentally validated. The performance of the most relevant state-of-the-art neural models for object detection has been experimentally compared. In addition, it has been used in several research projects, guiding in selecting the most suitable network model architectures and training procedures. The performance of the different models and training alternatives can be easily measured, even on large datasets.
+
 ## Materials
 
 <div class="container" style="overflow: hidden;">
