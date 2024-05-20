@@ -15,7 +15,7 @@ classes: wide
     <p style="text-align: center; width: 50%; float: left;">1: <a href="https://www.urjc.es/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/URJC_logo.svg/1280px-URJC_logo.svg.png" width="40%" height="40%" alt="URJC"/></a></p>
     <p style="text-align: center; width: 50%; float: left;">2: <a href="https://jderobot.github.io/"><img src="https://avatars.githubusercontent.com/u/10959337?s=280&v=4" width="20%" height="20%" alt="JdeRobot"/></a></p>
 </div>
-<p style="text-align: center">DOI: <a href=""></a></p>
+<p style="text-align: center">DOI: <a href="https://doi.org/10.1016/j.neucom.2024.127874">10.1016/j.neucom.2024.127874</a></p>
 
 
 ## Abstract
@@ -77,11 +77,16 @@ This paper presents a shallow end-to-end vision-based deep learning approach for
 ## Citation
 
 ``` 
-@article{Paniego20242,
-    title = {Autonomous Driving in Traffic with End-to-End Vision-based Deep Learning},
-    journal = {Neurocomputing},
-    author = {Sergio Paniego and Enrique Shinohara and JoséMaría Cañas},
-    abstract = {This paper presents a shallow end-to-end vision-based deep learning approach for autonomous vehicle driving in traffic scenarios. The primary objectives include lane keeping and maintaining a safe distance from preceding vehicles. This study leverages an imitation learning approach, creating a supervised dataset for robot control from expert agent demonstrations using the state-of-the-art Carla simulator in different traffic conditions. This dataset encompasses three different versions complementary to each other and we have made it publicly available along with the rest of the materials. The PilotNet neural model is utilized in two variants: the first one with complementary outputs for brake and throttle control commands along with dropout; the second one incorporates these improvements and adds the vehicle speed. Both models have been trained with the aforementioned dataset. The experimental results demonstrate that the models, despite their simplicity and shallow architecture, including only small-scale changes, successfully drive in traffic conditions without sacrificing performance in free-road environments, broadening their area of application widely. Additionally, the second model adeptly maintains a safe distance from leading cars and exhibits satisfactory generalization capabilities to diverse vehicle types. A new evaluation metric to measure the distance to the front vehicle has been created and added to Behavior Metrics; an open-source autonomous driving assessment tool built on CARLA that performs experimental validations of autonomous driving solutions.}
+@article{Paniego2024,
+  title = {Autonomous Driving in Traffic with End-to-End Vision-based Deep Learning},
+  journal = {Neurocomputing},
+  pages = {127874},
+  year = {2024},
+  issn = {0925-2312},
+  doi = {10.1016/j.neucom.2024.127874},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231224006453},
+  author = {Paniego, Sergio and Shinohara, Enrique and Cañas, JoséMaría},
+  keywords = {End-to-end autonomous driving, Imitation learning, Deep learning, Lane-following},
 }
 ``` 
 
