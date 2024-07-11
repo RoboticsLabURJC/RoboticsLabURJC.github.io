@@ -37,7 +37,7 @@ This paper presents an exploration, study, and comparison of various alternative
         </a>
     </div>
     <div style="width: 33%; float: left;margin-bottom: 20px; text-align: center;">
-        <a href="https://github.com/JdeRobot/DeepLearningStudio](https://github.com/JdeRobot/DeepLearningStudio">
+        <a href="https://github.com/JdeRobot/DeepLearningStudio">
             <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="https://static.thenounproject.com/png/1448954-200.png" alt="Code">
             <p>Code</p>
         </a>
