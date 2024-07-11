@@ -40,7 +40,7 @@ This paper presents a shallow end-to-end vision-based deep learning approach for
 
 <div class="container" style="overflow: hidden;">
     <div style="width: 33%; float: left;margin-bottom: 20px; text-align: center;">
-        <a href="">
+        <a href="https://doi.org/10.1016/j.neucom.2024.127874">
             <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="https://cdn-icons-png.flaticon.com/512/3731/3731553.png" alt="Paper">
             <p>Paper</p>
         </a>

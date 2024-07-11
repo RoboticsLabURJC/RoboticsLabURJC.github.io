@@ -14,6 +14,7 @@ Journals, congress papers and research publications can be found below:
 
 # 2024
 
+* [Enhancing End-to-End Control in Autonomous Driving through Kinematic-Infused and Visual Memory Imitation Learning Neurocomputing. Sergio Paniego; Roberto Calvo-Palomino; JoséMaría Cañas](/publications/2024/enhancing_end_to_end_control_in_autonomous_driving_through_kinematic_infused_and_visual_memory_imitation_learning).
 * [End-to-end Vision-based Autonomous Driving using Deep Learning, Phd Thesis. Sergio Paniego](https://sergiopaniego.github.io/phd_thesis/).
 * [Autonomous Driving in Traffic with End-to-End Vision-based Deep Learning, Neurocomputing. Sergio Paniego; Enrique Shinohara; JoséMaría Cañas](/publications/2024/autonomous_driving_in_traffic_with_end_to_end_vision_based_deep_learning).
 * [Behavior Metrics: An Open-Source Assessment Tool for Autonomous Driving Tasks, Software X. Sergio Paniego; Roberto Calvo-Palomino; JoséMaría Cañas](/publications/2024/behavior_metrics_an_open_source_assessment_tool_for_autonomous_driving_tasks).
