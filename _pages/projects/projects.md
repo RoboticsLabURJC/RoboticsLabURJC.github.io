@@ -13,7 +13,8 @@ classes: wide
 ***
 
 # Public funding projects
-  
+
+ *  [(GAIA) Gestión integral para la prevención, extinción y reforestación debido a incendios forestales](/projects/gaia), Proyectos de I+D en líneas estratégicas en colaboración entre organismos de investigación y difusión de conocimientos TRANSMISIONES 2023. Ref PLEC2023-010303 (2024-2026) - Agencia Estatal de Investigación de España 
 
  * (FERTILE) Artful Educational Robotics to promote Computational Thinking in a Blended Learning context. José María Cañas Plaza. (Erasmus+, KA220-HED - Cooperation partnerships in higher education). 01/02/2022-31/12/2024.
 
