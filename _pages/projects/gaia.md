@@ -37,7 +37,7 @@ The main 3 contributions of the RoboticsLab group are:
 
 <b> * LIDAR Signal Densification Algorithms:</b> Research focuses on algorithms and software techniques for densifying the LIDAR sensor signal, commonly used in outdoor robots. 
 
-<b> * Navigation Algorithms for Outdoor Robots:</b> This involves developing and evaluating point-to-point autonomous navigation algorithms for robots in unstructured environments, such as forests. 
+<b> * Outdoor Navigation Algorithms:</b> This involves developing and evaluating point-to-point autonomous navigation algorithms for robots in unstructured environments, such as forests. 
 
 <b> * Deep Learning for Object and Surface Detection:</b> Evolution of techniques for detecting objects and surfaces in unstructured environments using Deep Learning and sensors like LIDAR and visual cameras, aimed at autonomous robot navigation. 
 
@@ -51,7 +51,7 @@ The main 3 contributions of the RoboticsLab group are:
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <div style="width: 60%; text-align: center; padding: 10px;">    
-      <h2>Non-structure environment</h2>
+      <h2>Unstructured environment</h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRoQ_49oX1k?si=eto7gPZoU0TwweIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
   
