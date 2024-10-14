@@ -33,7 +33,7 @@ classes: wide
 
 Wildfires that burn for weeks and affect millions of people represent a challenge we are not prepared for. These fires burn with greater intensity in areas where they have always occurred and also in unexpected places, such as dry peatlands and thawing permafrost. They result from a complex interaction of biological, meteorological, physical, and social factors that influence their likelihood, spread, intensity, duration, and extent, as well as their potential to cause damage to economies, the environment, and society. This project investigates how to manage and reduce the risks associated with wildfires through the most advanced technology.
 
-The main 3 contributions of the RoboticsLab group of the Universidad Rey Juan Carlos are:
+The main 3 contributions of the RoboticsLab group are:
 
 <b> * LIDAR Signal Densification Algorithms:</b> Research focuses on algorithms and software techniques for densifying the LIDAR sensor signal, commonly used in outdoor robots. 
 
