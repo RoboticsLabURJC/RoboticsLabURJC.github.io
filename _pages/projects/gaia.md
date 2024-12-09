@@ -9,6 +9,7 @@ layout: single
 classes: wide
 ---
 
+
 <div class="container" style="overflow: hidden;">
     <div style="width: 33%; float: left;margin-bottom: 20px; text-align: center;">        
         <a href="http://www.urjc.es">
@@ -55,15 +56,17 @@ The main 3 contributions of the RoboticsLab group are:
 
 
   <div style="width: 60%; text-align: center; padding: 10px;">    
+      <h2>Real-Time 3D Lidar Visualizer</h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/qwk5qm3bDOw?si=vETtTTi4hGcqeiGt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+
+
+ <div style="width: 60%; text-align: center; padding: 10px;">    
       <h2>Realistic Unstructured environment v3</h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Zoy12gF2pFw?si=UcfMKxeauzWipMyf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
-
-
-  <div style="width: 60%; text-align: center; padding: 10px;">    
-      <h2>Unstructured environment v2</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ySQJ98mw5pQ?si=yR3h9Cu_G6WgOkjS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
+  
 
   
 
@@ -71,6 +74,11 @@ The main 3 contributions of the RoboticsLab group are:
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
 
+
+  <div style="width: 60%; text-align: center; padding: 10px;">    
+      <h2>Unstructured environment v2</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ySQJ98mw5pQ?si=yR3h9Cu_G6WgOkjS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
 
   <div style="width: 60%; text-align: center; padding: 10px;">    
       <h2>Unstructured environment</h2>
