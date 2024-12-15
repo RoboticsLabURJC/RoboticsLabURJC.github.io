@@ -9,6 +9,39 @@ layout: single
 classes: wide
 ---
 
+<head>
+  <meta charset="utf-8" />
+  <title>Swiper demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+  <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+  <!-- Demo styles -->
+  <style>
+    .swiper {
+      width: 90%;
+      height: 90%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    
+  </style>
+</head>
+
 
 <div class="container" style="overflow: hidden;">
     <div style="width: 33%; float: left;margin-bottom: 20px; text-align: center;">        
@@ -50,8 +83,126 @@ The main 3 contributions of the RoboticsLab group are:
 
 ## Videos
 
+### Lidar Segmentation
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <iframe
+        id="video1"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/MCsIj0M7fzM?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="swiper-slide">
+      <iframe
+        id="video2"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/qwk5qm3bDOw?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+        
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
 
 
+### Environments and Visual Segmentation
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <iframe
+        id="video1"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/Zoy12gF2pFw?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="swiper-slide">
+      <iframe
+        id="video2"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/ySQJ98mw5pQ?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="swiper-slide">
+      <iframe
+        id="video2"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/ZRoQ_49oX1k?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+   
+        
+  </div>  
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+   <div class="swiper-pagination"></div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+<script>
+  // Inicializar Swiper
+  const swiper = new Swiper('.mySwiper', {
+   pagination: {
+        el: ".swiper-pagination",
+        type: "progressbar",
+      },
+      navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    on: {
+      slideChange: function () {
+        // Pausar todos los videos al cambiar de slide
+        const iframes = document.querySelectorAll('iframe');
+        iframes.forEach((iframe) => {
+          const player = new YT.Player(iframe.id);
+          player.pauseVideo();
+        });
+      },
+    },
+  });
+  
+  
+  // Cargar la API de YouTube
+  function onYouTubeIframeAPIReady() {
+    // YouTube IFrames ya estarán listos
+  }
+  const tag = document.createElement('script');
+  tag.src = 'https://www.youtube.com/iframe_api';
+  const firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+</script>
+
+<!-- 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
 
 
@@ -87,7 +238,7 @@ The main 3 contributions of the RoboticsLab group are:
 
 </div>
 
-
+-->
 
 
 ## Publications
