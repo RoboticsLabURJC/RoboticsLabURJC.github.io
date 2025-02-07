@@ -46,10 +46,23 @@ youTube_id: ID7qaEcIu4k
 </figure>
 
 <figure style="text-align: center">
-    <a href="https://github.com/RoboticsLabURJC" target="_blank"><img src="/assets/images/cover/github_social_button.png" style="width:200px;"></a>
-    <a href="https://twitter.com/roboticslaburjc" target="_blank"><img src="/assets/images/cover/twitter_social_button.png" style="width:200px;"></a>
-    <a href="https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ/videos" target="_blank"><img src="/assets/images/cover/youtube_social_button.png" style="width:200px;"></a>
-    <a href="https://www.linkedin.com/company/roboticslaburjc/" target="_blank"><img src="/assets/images/cover/Linkedin-logo-png.png" style="width:200px;"></a>
+    <a href="https://github.com/RoboticsLabURJC" target="_blank">
+        <img src="/assets/images/cover/github_social_button.png" style="width:200px;">
+    </a>
+    <a href="https://twitter.com/roboticslaburjc" target="_blank">
+        <img src="/assets/images/cover/twitter_social_button.png" style="width:200px;">
+    </a>
+    <a href="https://www.youtube.com/@RoboticsLabURJC" target="_blank">
+        <img src="/assets/images/cover/youtube_social_button.png" style="width:200px;">
+        <figcaption style="text-align: center; margin-top: 5px; font-size: 16px;">RoboticsLabURJC</figcaption>
+    </a>
+    <a href="https://www.youtube.com/@JdeRobot" target="_blank">
+        <img src="/assets/images/cover/youtube_social_button.png" style="width:200px;">
+        <figcaption style="text-align: center; margin-top: 5px; font-size: 16px;">JdeRobot</figcaption>
+    </a>
+    <a href="https://www.linkedin.com/company/roboticslaburjc/" target="_blank">
+        <img src="/assets/images/cover/Linkedin-logo-png.png" style="width:200px;">
+    </a>
 </figure>
 
 
