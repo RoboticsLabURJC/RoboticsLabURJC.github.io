@@ -18,7 +18,7 @@ classes: wide
 
  * (FERTILE) Artful Educational Robotics to promote Computational Thinking in a Blended Learning context. José María Cañas Plaza. (Erasmus+, KA220-HED - Cooperation partnerships in higher education). 01/02/2022-31/12/2024.
 
- * (UNIBOTICS-GAM) Plataforma web educativa abierta para la programación de robots en ingeniería (TED2021-132632B-I00). Agencia estatal de investigación. José María Cañas Plaza. (Universidad Rey Juan Carlos). 01/12/2022-30/11/2024
+ * [(UNIBOTICS-GAM) Plataforma web educativa abierta para la programación de robots en ingeniería](/projects/uniboticsGAM) (TED2021-132632B-I00). Agencia estatal de investigación. José María Cañas Plaza. (Universidad Rey Juan Carlos). 01/12/2022-30/11/2024
 
  * S2018/NMT-4331,  RoboCity 2030 - Madrid Robotics Digital Innovation Hub. 2018-2022.
 
