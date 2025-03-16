@@ -77,13 +77,41 @@ gamificación para estudiantes de secundaria están ampliamente contrastados en 
 
 Varios ejercicios de la plataforma se presentarán como juegos y desafíos para los estudiantes. Se vertebrará la gamificación con: mecanismos de puntuación automática (evalúan si el robot programado por el alumno cumple la tarea de cada práctica), oponentes automáticos con los que competir y torneos eventuales entre estudiantes. Asimismo, se incorporarán a la plataforma educativa sondas que registran las interacciones de los usuarios, lo que permite recoger métricas objetivas (tiempo de uso, etc.) y analizar el impacto de la gamificación en los procesos de aprendizaje.
 
+<!--
+
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
 <div style="width: 70%; float: left; margin-bottom: 100px; text-align: center;">              
         <img style="max-width: 70%; height: auto; margin-bottom: 10px;" src="https://gaia-project.es/media/uploads/bloques/general_/bosque__en_llamas.jpg" alt="">                
 </div>
 </div>
 
+-->
+
 ## Videos
+
+
+### Evaluador automático para torneos de programación de robots
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <iframe
+        id="video1"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/P3YunnYXw3I?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+       
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+
 
 ### Competición programado el control visual de un Fórmula1
 <div class="swiper mySwiper">
@@ -214,11 +242,13 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
     <div style="font-size: 16px; color: #555; margin-bottom: 5px;">David Roldán-Álvarez, José M. Cañas, David Valladares, Pedro Arias-Perez, Sakshay Mahna</div>
     <div style="font-size: 14px; color: #555;">Multimedia Tools and Applications, Springer 2023. DOI: https://doi.org/10.1007/s11042-023-17514-z</div>
   </div>
+</div>	
+
+<div style="display: flex; justify-content: space-around; max-width: 1200px; margin: auto;">
   <div style="background-color: #f2f2f2; box-shadow: -8px 0 15px -3px rgba(0, 0, 0, 0.1); padding: 20px; margin: 10px; flex: 1;">
     <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Improving usability of a Web-based platform for teaching robotics engineering</div>
     <div style="font-size: 16px; color: #555; margin-bottom: 5px;">Lı́a Garcı́a-Pérez, David Roldán, Enric Cervera, Pawan Wadhwani, José M. Cañas</div>
-    <div style="font-size: 14px; color: #555;">International Conference on Robotics in Education (RiE-2024) Apr 10, 2024, Koblenz (Germany),
-(pp. 313-324). Springer Nature Switzerland. DOI: https://doi.org/10.1007/978-3-031-67059-6_28</div>
+    <div style="font-size: 14px; color: #555;">International Conference on Robotics in Education (RiE-2024) Apr 10, 2024, Koblenz (Germany), (pp. 313-324). Springer Nature Switzerland. DOI: https://doi.org/10.1007/978-3-031-67059-6_28</div>
   </div>
 </div>
 
@@ -228,6 +258,9 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
     <div style="font-size: 16px; color: #555; margin-bottom: 5px;">Lía García-Pérez, Diego Martín-Martín, José M. Cañas, Jesús Chacón, David Roldán</div>
     <div style="font-size: 14px; color: #555;">XLV Jornadas de Automática, 2024. DOI: https://doi.org/10.17979/ja-cea.2024.45.10933</div>
   </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; max-width: 1200px; margin: auto;">
   <div style="background-color: #f2f2f2; box-shadow: -8px 0 15px -3px rgba(0, 0, 0, 0.1); padding: 20px; margin: 10px; flex: 1;">
     <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Gamification in a Web-based platform for teaching robotics engineering</div>
     <div style="font-size: 16px; color: #555; margin-bottom: 5px;">David Rodrı́guez-Rives, Raúl Fernández-Ruiz, Daniel Palacios-Alonso, Nikola Hristov-Kalamov, José M. Cañas</div>
@@ -246,8 +279,6 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
 
 ## Founded by
   
-
-
 <div class="container" style="overflow: hidden;">
     <div style="width: 100%; float: left;margin-bottom: 20px; text-align: center;">
         <img style="max-width: 100%; height: auto; margin-bottom: 10px;" src="/assets/images/lines/gaia_founded.png" alt="Paper">                    
