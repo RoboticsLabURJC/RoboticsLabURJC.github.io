@@ -253,7 +253,7 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
   <div style="background-color: #f2f2f2; box-shadow: -8px 0 15px -3px rgba(0, 0, 0, 0.1); padding: 20px; margin: 10px; flex: 1;">
     <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Introduction to Control Education with the Unibotics web framework</div>
     <div style="font-size: 16px; color: #555; margin-bottom: 5px;">Lía García-Pérez, Diego Martín-Martín, José M. Cañas, Jesús Chacón, David Roldán</div>
-    <div style="font-size: 14px; color: #555;">XLV Jornadas de Automática, 2024. DOI: <a href="https://doi.org/10.17979/ja-cea.2024.45.10933">https://doi.org/10.17979/ja-cea.2024.45.10933</a></div>
+    <div style="font-size: 14px; color: #555;">XLV Jornadas de Automática, 2024. DOI: <a href="https://doi.org/10.17979/ja-cea.2024.45.10933">https://doi.org/10.17979/ja-cea.2024.45.10933</a> (<a href="https://revistas.udc.es/index.php/JA_CEA/article/view/10933/8373">pdf</a>) </div>
   </div>
 </div>
 
