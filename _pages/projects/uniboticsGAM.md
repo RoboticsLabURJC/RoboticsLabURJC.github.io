@@ -261,7 +261,7 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
   <div style="background-color: #f2f2f2; box-shadow: -8px 0 15px -3px rgba(0, 0, 0, 0.1); padding: 20px; margin: 10px; flex: 1;">
     <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Gamification in a Web-based platform for teaching robotics engineering</div>
     <div style="font-size: 16px; color: #555; margin-bottom: 5px;">David Rodrı́guez-Rives, Raúl Fernández-Ruiz, Daniel Palacios-Alonso, Nikola Hristov-Kalamov, José M. Cañas</div>
-    <div style="font-size: 14px; color: #555;">Aceptado en International Conference on Robotics in Education (RIE-2025)</div>
+    <div style="font-size: 14px; color: #555;">Aceptado en International Conference on Robotics in Education (RIE-2025) (en proceso de publicación en Springer) (<a href="https://drive.google.com/drive/folders/14-EMTkltpxZ7linkrZHYnlccznXj_SpQ">pdf</a>)</div>
   </div>
 </div>
 
@@ -269,18 +269,18 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
   <div style="background-color: #f2f2f2; box-shadow: -8px 0 15px -3px rgba(0, 0, 0, 0.1); padding: 20px; margin: 10px; flex: 1;">
     <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Teaching Service Robotics with ROS and Unibotics web framework in Higher Education</div>
     <div style="font-size: 16px; color: #555; margin-bottom: 5px;">Lucı́a Chen, José M. Cañas, David Roldán, Diego Martı́n, Lı́a Garcı́a-Perez, Florian Stöckl, Silvan Müller, Marcus Strand</div>
-    <div style="font-size: 14px; color: #555;">Aceptado en International Conference on Robotics in Education (RIE-2025)</div>
+    <div style="font-size: 14px; color: #555;">Presentado en International Conference on Robotics in Education (RIE-2025) (en proceso de publicación en Springer) (<a href="https://drive.google.com/drive/folders/1e2IVY9MgeFCKRMja-mIhAnB20Iy234at">pdf</a>)</div>
   </div>
 </div>
 
 
-## Founded by
+## Funded by
   
 <div class="container" style="overflow: hidden;">
     <div style="width: 100%; float: left;margin-bottom: 20px; text-align: center;">
         <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-MinisterioCiencia.svg" alt="Paper">
-        <img style="max-width: 25%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-FinanciadoEU.png" alt="Paper">
-	<img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-PRTR.png" alt="Paper">
+        <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-FinanciadoEU.png" alt="Paper">
+	<img style="max-width: 25%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-PRTR.png" alt="Paper">
 	<img style="max-width: 15%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-AEI.svg" alt="Paper"> 
     </div>
    
