@@ -44,18 +44,15 @@ classes: wide
 
 
 <div class="container" style="overflow: hidden;">
-    <div style="width: 33%; float: left;margin-bottom: 20px; text-align: center;">        
+    <div style="width: 50%; float: left;margin-bottom: 20px; text-align: center;">        
         <a href="http://www.urjc.es">
             <img style="max-width: 60%; height: auto; margin-bottom: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/URJC_logo.svg/2560px-URJC_logo.svg.png" alt="">                    
         </a>
     </div>
-    <div style="width: 33%; float: left; margin-bottom: 20px; text-align: center;">      
+    <div style="width: 50%; float: left; margin-bottom: 20px; text-align: center;">      
         <a href="https://roboticslaburjc.github.io/">
         <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="https://pbs.twimg.com/profile_images/1709157413134188544/MHuOqgeK_400x400.jpg" alt="">        
         </a>
-    </div>
-    <div style="width: 33%; float: left; margin-bottom: 100px; text-align: center;">              
-        <img style="max-width: 33%; height: auto; margin-bottom: 10px;" src="/assets/images/lines/gaia.jpg" alt="">                
     </div>
 </div>
 
@@ -281,7 +278,10 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
   
 <div class="container" style="overflow: hidden;">
     <div style="width: 100%; float: left;margin-bottom: 20px; text-align: center;">
-        <img style="max-width: 100%; height: auto; margin-bottom: 10px;" src="/assets/images/lines/gaia_founded.png" alt="Paper">                    
+        <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-MinisterioCiencia.svg" alt="Paper">
+        <img style="max-width: 25%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-FinanciadoEU.png" alt="Paper">
+	<img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-PRTR.png" alt="Paper">
+	<img style="max-width: 15%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-AEI.svg" alt="Paper"> 
     </div>
    
 </div>
