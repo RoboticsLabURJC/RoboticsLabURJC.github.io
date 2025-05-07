@@ -152,7 +152,7 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
         id="video1"
         width="560"
         height="315"
-        src="https://www.youtube.com/embed/P3YunnYXw3I?enablejsapi=1&rel=0&modestbranding=1"
+        src="https://www.youtube.com/embed/rVWD_kts0uI?enablejsapi=1&rel=0&modestbranding=1"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -202,43 +202,6 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 </script>
 
-<!-- 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-
-
-  <div style="width: 60%; text-align: center; padding: 10px;">    
-      <h2>Real-Time 3D Lidar Visualizer</h2>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/qwk5qm3bDOw?si=vETtTTi4hGcqeiGt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-
-
-
- <div style="width: 60%; text-align: center; padding: 10px;">    
-      <h2>Realistic Unstructured environment v3</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Zoy12gF2pFw?si=UcfMKxeauzWipMyf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-  
-
-  
-
-</div>
-
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-
-
-  <div style="width: 60%; text-align: center; padding: 10px;">    
-      <h2>Unstructured environment v2</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ySQJ98mw5pQ?si=yR3h9Cu_G6WgOkjS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-
-  <div style="width: 60%; text-align: center; padding: 10px;">    
-      <h2>Unstructured environment</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRoQ_49oX1k?si=eto7gPZoU0TwweIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-
-</div>
-
--->
 
 ## Publications
 
