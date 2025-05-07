@@ -43,6 +43,7 @@ classes: wide
 </head>
 
 <!--
+
 <div class="container" style="overflow: hidden;">
     <div style="width: 50%; float: left;margin-bottom: 20px; text-align: center;">        
         <a href="http://www.urjc.es">
@@ -55,6 +56,7 @@ classes: wide
         </a>
     </div>
 </div>
+
 -->
 
 <div class="container" style="overflow: hidden;">
