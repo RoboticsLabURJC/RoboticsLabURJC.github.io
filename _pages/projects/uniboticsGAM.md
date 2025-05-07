@@ -65,7 +65,7 @@ classes: wide
         <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-FinanciadoEU.png" alt="Paper">
 	<img style="max-width: 25%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-PRTR.png" alt="Paper">
 	<img style="max-width: 15%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-AEI.svg" alt="Paper">
-	<img style="max-width: 15%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-URJC.png" alt="Paper"> 
+	<img style="max-width: 25%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-URJC.png" alt="Paper"> 
     </div>
 </div>
 
