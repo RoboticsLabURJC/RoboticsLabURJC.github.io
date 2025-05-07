@@ -86,30 +86,6 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
 
 ## Videos
 
-
-### Evaluador automático para torneos de programación de robots
-<div class="swiper mySwiper">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide">
-      <iframe
-        id="video1"
-        width="560"
-        height="315"
-        src="https://www.youtube.com/embed/P3YunnYXw3I?enablejsapi=1&rel=0&modestbranding=1"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen>
-      </iframe>
-    </div>
-       
-  </div>
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
-  <div class="swiper-pagination"></div>
-</div>
-
-
 ### Competición programado el control visual de un Fórmula1
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
@@ -118,7 +94,7 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
         id="video1"
         width="560"
         height="315"
-        src="https://www.youtube.com/embed/8n1y9sDO5HM?enablejsapi=1&rel=0&modestbranding=1"
+        src="https://www.youtube.com/embed/pkQa93CvYhE?enablejsapi=1&rel=0&modestbranding=1"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -142,7 +118,7 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
         id="video1"
         width="560"
         height="315"
-        src="https://www.youtube.com/embed/B87Igj_ebmU?enablejsapi=1&rel=0&modestbranding=1"
+        src="https://www.youtube.com/embed/fML_JfoDqtI?enablejsapi=1&rel=0&modestbranding=1"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -155,6 +131,28 @@ Varios ejercicios de la plataforma se presentarán como juegos y desafíos para 
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
    <div class="swiper-pagination"></div>
+</div>
+
+### Evaluador automático para torneos de programación de robots
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <iframe
+        id="video1"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/P3YunnYXw3I?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+       
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
 </div>
 
 
