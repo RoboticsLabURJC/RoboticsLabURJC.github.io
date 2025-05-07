@@ -42,7 +42,7 @@ classes: wide
   </style>
 </head>
 
-
+<!--
 <div class="container" style="overflow: hidden;">
     <div style="width: 50%; float: left;margin-bottom: 20px; text-align: center;">        
         <a href="http://www.urjc.es">
@@ -55,8 +55,16 @@ classes: wide
         </a>
     </div>
 </div>
+-->
 
-
+<div class="container" style="overflow: hidden;">
+    <div style="width: 100%; float: left;margin-bottom: 20px; text-align: center;">
+        <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-MinisterioCiencia.svg" alt="Paper">
+        <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-FinanciadoEU.png" alt="Paper">
+	<img style="max-width: 25%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-PRTR.png" alt="Paper">
+	<img style="max-width: 15%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-AEI.svg" alt="Paper">
+	<img style="max-width: 15%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-URJC.png" alt="Paper"> 
+    </div>
 
 <p style="text-align: center; font-weight: bold; font-size: 20px"><font size="15">Unibotics-GAM: <br>Plataforma web educativa abierta para la programación de robots en ingeniería</font></p>
 
