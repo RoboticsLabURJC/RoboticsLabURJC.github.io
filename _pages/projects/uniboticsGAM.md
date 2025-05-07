@@ -67,6 +67,7 @@ classes: wide
 	<img style="max-width: 15%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-AEI.svg" alt="Paper">
 	<img style="max-width: 15%; height: auto; margin-bottom: 10px;" src="/assets/images/projects/logo-URJC.png" alt="Paper"> 
     </div>
+</div>
 
 <p style="text-align: center; font-weight: bold; font-size: 20px"><font size="15">Unibotics-GAM: <br>Plataforma web educativa abierta para la programación de robots en ingeniería</font></p>
 
