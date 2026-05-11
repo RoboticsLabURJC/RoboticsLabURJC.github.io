@@ -88,7 +88,7 @@ The main 3 contributions of the RoboticsLab group are:
   <div class="swiper-wrapper">
     <div class="swiper-slide">
       <iframe
-        id="video1"
+        id="video-lidar-1"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/MCsIj0M7fzM?enablejsapi=1&rel=0&modestbranding=1"
@@ -100,7 +100,7 @@ The main 3 contributions of the RoboticsLab group are:
     </div>
     <div class="swiper-slide">
       <iframe
-        id="video2"
+        id="video-liDAR-2"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/qwk5qm3bDOw?enablejsapi=1&rel=0&modestbranding=1"
@@ -110,21 +110,30 @@ The main 3 contributions of the RoboticsLab group are:
         allowfullscreen>
       </iframe>
     </div>
-
-        
+    <div class="swiper-slide">
+      <iframe
+        id="video-lidar-3"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/AcJvDmwYneQ?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
   <div class="swiper-pagination"></div>
 </div>
 
-
 ### Environments and Visual Segmentation
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
       <iframe
-        id="video1"
+        id="video-env-1"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/Zoy12gF2pFw?enablejsapi=1&rel=0&modestbranding=1"
@@ -136,7 +145,7 @@ The main 3 contributions of the RoboticsLab group are:
     </div>
     <div class="swiper-slide">
       <iframe
-        id="video2"
+        id="video-env-2"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/ySQJ98mw5pQ?enablejsapi=1&rel=0&modestbranding=1"
@@ -148,7 +157,7 @@ The main 3 contributions of the RoboticsLab group are:
     </div>
     <div class="swiper-slide">
       <iframe
-        id="video2"
+        id="video-env-3"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/ZRoQ_49oX1k?enablejsapi=1&rel=0&modestbranding=1"
@@ -158,14 +167,110 @@ The main 3 contributions of the RoboticsLab group are:
         allowfullscreen>
       </iframe>
     </div>
-   
-        
+    <div class="swiper-slide">
+      <iframe
+        id="video-env-4"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/W-XWX9uMyDU?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="swiper-slide">
+      <iframe
+        id="video-env-5"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/pZQ4GW4Rv3E?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
   </div>  
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
-   <div class="swiper-pagination"></div>
+  <div class="swiper-pagination"></div>
 </div>
 
+### Synthetic Driving Capture
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <iframe
+        id="video-sync-1"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/RRwt9ebSFdU?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+
+### Trash Detection
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <iframe
+        id="video-trash-1"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/qjQ6a4S5jp4?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="swiper-slide">
+      <iframe
+        id="video-trash-2"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/E3NFhQJKh64?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+
+### Fusion Segmentation, LiDAR + Vision
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <iframe
+        id="video-fusion-1"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/5GSqOx8HI3g?enablejsapi=1&rel=0&modestbranding=1"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 <script>
