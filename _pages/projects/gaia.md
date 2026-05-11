@@ -100,7 +100,7 @@ The main 3 contributions of the RoboticsLab group are:
     </div>
     <div class="swiper-slide">
       <iframe
-        id="video-lidar-2"
+        id="video-liDAR-2"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/qwk5qm3bDOw?enablejsapi=1&rel=0&modestbranding=1"
