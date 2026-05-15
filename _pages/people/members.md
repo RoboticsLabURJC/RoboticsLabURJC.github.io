@@ -34,15 +34,15 @@ projects:
   #  title: <a href='https://gestion2.urjc.es/pdi/ver/julio.vega' target='_blank'>Julio Vega</a>
   #  excerpt: ""
 
-  - image_path: /assets/images/community/contributors/felipe-machado.jpg
-    alt: "Felipe Machado"
-    title: <a href='https://github.com/rperezgonz' target='_blank'>Felipe Machado</a>
-    excerpt: "Reconfigurable Computing in Robotics"
+  #- image_path: /assets/images/community/contributors/felipe-machado.jpg
+  #  alt: "Felipe Machado"
+  #  title: <a href='https://github.com/rperezgonz' target='_blank'>Felipe Machado</a>
+  #  excerpt: "Reconfigurable Computing in Robotics"
 
-  - image_path: /assets/images/community/contributors/pedro-cuenca.jpg
-    alt: "Pedro M. Cuenca"
-    title: <a href='https://github.com/almartinflorido' target='_blank'>Pedro M. Cuenca</a>
-    excerpt: "Profesor asociado"
+  #- image_path: /assets/images/community/contributors/pedro-cuenca.jpg
+  #  alt: "Pedro M. Cuenca"
+  #  title: <a href='https://github.com/almartinflorido' target='_blank'>Pedro M. Cuenca</a>
+  #  excerpt: "Profesor asociado"
 
   #  - image_path: /assets/images/community/contributors/lia-garcia.jpg
   #    alt: "Lía García Pérez"
@@ -59,25 +59,20 @@ projects:
   #    title: <a href='https://github.com/almartinflorido' target='_blank'>Alberto Martín</a>
   #    excerpt: "Profesor asociado"
 
-  - image_path: /assets/images/community/contributors/david_valladares.png
-    alt: "David Valladares"
-    title: <a href='https://github.com/dvalladaresv' target='_blank'>David Valladares</a>
-    excerpt: "Research Assistant"
+  #  - image_path: /assets/images/community/contributors/david_valladares.png
+  #    alt: "David Valladares"
+  #    title: <a href='https://github.com/dvalladaresv' target='_blank'>David Valladares</a>
+  #    excerpt: "Research Assistant"
 
-  - image_path: /assets/images/community/contributors/marta-quintana.png
-    alt: "Marta Quintana"
-    title: <a href='https://github.com/martaquintana' target='_blank'>Marta Quintana</a>
-    excerpt: "Research Assistant"
+  #  - image_path: /assets/images/community/contributors/marta-quintana.png
+  #    alt: "Marta Quintana"
+  #    title: <a href='https://github.com/martaquintana' target='_blank'>Marta Quintana</a>
+  #    excerpt: "Research Assistant"
 
   #  - image_path: /assets/images/community/contributors/pablo-moreno.jpg
   #    alt: "Pablo Moreno"
   #    title: <a href='https://github.com/dvalladaresv' target='_blank'>Pablo Moreno</a>
   #    excerpt: "Research Assistant"
-
-  - image_path: /assets/images/community/contributors/marta-quintana.png
-    alt: "Marta Quintana"
-    title: <a href='https://github.com/martaquintana' target='_blank'>Marta Quintana</a>
-    excerpt: "Research Assistant"
 
   - image_path: /assets/images/community/contributors/inmaculada-mora.png
     alt: "Inmaculada Mora"
@@ -98,6 +93,16 @@ projects:
     alt: "Javier Izquierdo"
     title: <a href='https://github.com/javizqh' target='_blank'>Javier Izquierdo</a>
     excerpt: "Research Assistant"
+
+  - image_path: /assets/images/community/contributors/cdam2020.png
+    alt: "Carlos Del Águila"
+    title: <a href='https://github.com/CDAM2020' target='_blank'>Carlos Del Águila</a>
+    excerpt: "RoboticsAcademy, Unibotics"
+
+  - image_path: /assets/images/community/contributors/aquintan4.png
+    alt: "Álvaro Quintana"
+    title: <a href='https://github.com/aquintan4' target='_blank'>Álvaro Quintana</a>
+    excerpt: "RoboticsAcademy, Unibotics"
 ---
 
 {% include feature_row_advanced %}
