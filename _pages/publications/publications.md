@@ -18,7 +18,7 @@ Journals, congress papers and research publications can be found below:
 
 # 2025
 
-* [Deep Learning-Based Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving in Unstructured Environments, Proceedings of the XXV International Workshop on Physical Agents (WAF). Félix Martínez, David Pascual-Hernández, Daniel Borja Fernández, Inmaculada Mora Jiménez, José María Cañas]
+* Deep Learning-Based Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving in Unstructured Environments, Proceedings of the XXV International Workshop on Physical Agents (WAF). Félix Martínez, David Pascual-Hernández, Daniel Borja Fernández, Inmaculada Mora Jiménez, José María Cañas.
 
 # 2024
 
