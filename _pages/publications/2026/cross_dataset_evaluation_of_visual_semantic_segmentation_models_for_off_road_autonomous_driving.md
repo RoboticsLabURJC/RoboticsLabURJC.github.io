@@ -1,0 +1,68 @@
+---
+permalink: /publications/2026/cross_dataset_evaluation_of_visual_semantic_segmentation_models_for_off_road_autonomous_driving
+title: "Cross-dataset Evaluation of Visual Semantic Segmentation Models for Off-road Autonomous Driving"
+
+
+layout: single
+
+classes: wide
+---
+
+<p style="text-align: center; font-weight: bold;">Neurocomputing, 2024</p>
+
+<p style="text-align: center"><a href="https://sergiopaniego.github.io/">David Pascual-Hernández<sup>1</sup></a>, <a href="https://sergiopaniego.github.io/">Sergio Paniego<sup>1</sup></a>, <a href="https://servicios.urjc.es/pdi/ver/roberto.calvo">Roberto Calvo-Palomino<sup>1</sup></a></p>, <a href="https://servicios.urjc.es/pdi/ver/inmaculada.mora">Inmaculada Mora-Jiménez<sup>1</sup></a></p>, <a href="https://gsyc.urjc.es/jmplaza/">Jose Maria Cañas-Plaza<sup>1</sup></a></p>
+<div class="container" style="overflow: hidden;">
+    <p style="text-align: center; width: 50%; float: left;">1: <a href="https://www.urjc.es/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/URJC_logo.svg/1280px-URJC_logo.svg.png" width="40%" height="40%" alt="URJC"/></a></p>
+</div>
+<p style="text-align: center">DOI: <a href="https://doi.org/10.1016/j.eswa.2026.132656">10.1016/j.eswa.2026.132656</a></p>
+
+
+## Abstract
+
+Intelligent autonomous driving in off-road environments is an emerging field with great potential to impact areas such as agriculture, forestry, and rescue operations. Perception in these scenarios presents unique challenges due to the diversity of elements and weather conditions, along with the inherent ambiguity in class definitions. Consequently, off-road visual semantic segmentation datasets remain underdeveloped, roughly ten times smaller than their urban counterparts, hindering dependable performance assessment and potentially compromising the safety of autonomous systems. To address these challenges, we present a comprehensive cross-dataset evaluation of visual semantic segmentation models for autonomous off-road navigation. We propose a unified ontology that harmonizes class definitions across relevant datasets, enabling their combination for both training and testing. This approach ensures fair model comparisons and reliable assessment of generalization to unseen domains. We further benchmark models on the original datasets, analyze the impact of different ontology harmonization criteria and conversion strategies, and evaluate the trade-off between segmentation performance and computational cost. Results show that Transformer-based architectures achieve the most consistent segmentation performance across datasets. While often computationally demanding, some variants maintain real-time inference (≈12 ms) with top-tier accuracy. The unified ontology simplifies the segmentation task, yielding more reliable models and about 40% faster training convergence. Cross-dataset training further enhances generalization, improving mean IoU by up to +20% on RUGD and +13% on WildScenes compared to RELLIS-3D-only training. Overall, this study provides valuable insights for developing robust perception modules for off-road autonomous vehicles.
+
+<div style="display: flex;justify-content: space-around;margin-bottom: 20px;">
+    <div style="width: 45%;">
+      <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0957417426015691-gr2_lrg.jpg" frameborder="0" allowfullscreen></img>
+    </div>
+    <div style="width: 45%;">
+      <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0957417426015691-gr11_lrg.jpg" frameborder="0" allowfullscreen></img>
+    </div>
+</div>
+
+## Materials
+
+<div class="container" style="overflow: hidden;">
+    <div style="width: 33%; float: left;margin-bottom: 20px; text-align: center;">
+        <a href="https://doi.org/10.1016/j.eswa.2026.132656">
+            <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="https://cdn-icons-png.flaticon.com/512/3731/3731553.png" alt="Paper">
+            <p>Paper</p>
+        </a>
+    </div>
+    <div style="width: 33%; float: left;margin-bottom: 20px; text-align: center;">
+        <a href="https://github.com/JdeRobot/PerceptionMetrics">
+            <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="https://static.thenounproject.com/png/1448954-200.png" alt="Code">
+            <p>Evaluation Code</p>
+        </a>
+    </div>
+    <div style="width: 33%; float: left;margin-bottom: 20px; text-align: center;">
+        <a href="https://huggingface.co/roboticslaburjc-org/cross-dataset-visual-offroad-segmentation">
+            <img style="max-width: 30%; height: auto; margin-bottom: 10px;" src="https://cdn-icons-png.flaticon.com/512/6461/6461819.png" alt="Models' weights">
+            <p>Models' weights</p>
+        </a>
+    </div>
+</div>
+
+
+## Citation
+
+```
+@article{pascual2026cross,
+  title={Cross-Dataset Evaluation of Visual Semantic Segmentation Models for Off-Road Autonomous Driving},
+  author={Pascual-Hern{\'a}ndez, David and Paniego, Sergio and Calvo-Palomino, Roberto and Mora-Jim{\'e}nez, Inmaculada and Ca{\~n}as-Plaza, Jos{\'e} Mar{\'\i}a},
+  journal={Expert Systems with Applications},
+  pages={132656},
+  year={2026},
+  publisher={Elsevier}
+}
+```
