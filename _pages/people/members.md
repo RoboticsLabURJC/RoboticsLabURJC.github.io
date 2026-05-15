@@ -10,24 +10,24 @@ sidebar:
 
 projects:
   - image_path: /assets/images/community/contributors/jmplaza.jpg
-    alt: "JoseMaría Cañas"
+    alt: "Jose María Cañas"
     title: <a href='https://gsyc.urjc.es/jmplaza/' target='_blank'>JoseMaría Cañas</a>
     excerpt: "Cofounder"
 
   - image_path: /assets/images/community/contributors/Roberto_Calvo_Palomino.jpg
     alt: "Roberto Calvo"
     title: <a href='https://github.com/rocapal' target='_blank'>Roberto Calvo</a>
-    excerpt: "Machine Learning in Robotics"
+    excerpt: "Faculty"
 
   - image_path: /assets/images/community/contributors/jesus-fernandez.jpg
-    alt: "Jesús Fernández conde"
+    alt: "Jesús Fernández Conde"
     title: <a href='https://github.com/cawadall' target='_blank'>Jesús Fernández Conde</a>
-    excerpt: "Reconfigurable Computing Robotics"
+    excerpt: "Faculty"
 
   - image_path: /assets/images/community/contributors/david_roldan.png
     alt: "David Roldán"
     title: <a href='https://github.com/davidrol6' target='_blank'>David Roldán</a>
-    excerpt: "RoboticsAcademy, Unibotics"
+    excerpt: "Faculty"
 
   #- image_path: /assets/images/community/contributors/julio-vega.jpg
   #  alt: "Julio Vega"
@@ -76,8 +76,8 @@ projects:
 
   - image_path: /assets/images/community/contributors/inmaculada-mora.png
     alt: "Inmaculada Mora"
-    title: <a href='https://github.com/martaquintana' target='_blank'>Inmaculada Mora</a>
-    excerpt: "Research Assistant"
+    title: <a href='https://www.linkedin.com/in/inmaculada-mora-jim%C3%A9nez-8943b227/' target='_blank'>Inmaculada Mora</a>
+    excerpt: "Faculty"
 
   - image_path: /assets/images/community/contributors/david-pascual.png
     alt: "David Pascual"
@@ -97,12 +97,12 @@ projects:
   - image_path: /assets/images/community/contributors/cdam2020.png
     alt: "Carlos Del Águila"
     title: <a href='https://github.com/CDAM2020' target='_blank'>Carlos Del Águila</a>
-    excerpt: "RoboticsAcademy, Unibotics"
+    excerpt: "Research Assistant"
 
   - image_path: /assets/images/community/contributors/aquintan4.png
     alt: "Álvaro Quintana"
     title: <a href='https://github.com/aquintan4' target='_blank'>Álvaro Quintana</a>
-    excerpt: "RoboticsAcademy, Unibotics"
+    excerpt: "Research Assistant"
 ---
 
 {% include feature_row_advanced %}
