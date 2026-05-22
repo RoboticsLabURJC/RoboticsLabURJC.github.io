@@ -74,7 +74,7 @@ projects:
   #    title: <a href='https://github.com/dvalladaresv' target='_blank'>Pablo Moreno</a>
   #    excerpt: "Research Assistant"
 
-  - image_path: /assets/images/community/contributors/inmaculada-mora.png
+  - image_path: /assets/images/community/contributors/inmaculada-mora.jpg
     alt: "Inmaculada Mora"
     title: <a href='https://www.linkedin.com/in/inmaculada-mora-jim%C3%A9nez-8943b227/' target='_blank'>Inmaculada Mora</a>
     excerpt: "Faculty"
@@ -89,17 +89,17 @@ projects:
     title: <a href='https://github.com/felixmaral' target='_blank'>Félix Martínez</a>
     excerpt: "Research Assistant"
 
-  - image_path: /assets/images/community/contributors/javier-izquierdo.png
+  - image_path: /assets/images/community/contributors/javier-izquierdo.jpg
     alt: "Javier Izquierdo"
     title: <a href='https://github.com/javizqh' target='_blank'>Javier Izquierdo</a>
     excerpt: "Research Assistant"
 
-  - image_path: /assets/images/community/contributors/cdam2020.png
+  - image_path: /assets/images/community/contributors/cdam2020.jpg
     alt: "Carlos Del Águila"
     title: <a href='https://github.com/CDAM2020' target='_blank'>Carlos Del Águila</a>
     excerpt: "Research Assistant"
 
-  - image_path: /assets/images/community/contributors/aquintan4.png
+  - image_path: /assets/images/community/contributors/aquintan4.jpg
     alt: "Álvaro Quintana"
     title: <a href='https://github.com/aquintan4' target='_blank'>Álvaro Quintana</a>
     excerpt: "Research Assistant"
